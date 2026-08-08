@@ -1,0 +1,8 @@
+# never commit tokens or secrets
+*.token
+.env
+.discord_token*
+
+# local only
+__pycache__/
+*.pyc
