@@ -1,0 +1,4863 @@
+{
+ "cols": 32,
+ "rows": 17,
+ "cell": 32,
+ "items": [
+  {
+   "name": "PewterAmulet",
+   "type": 588,
+   "cell": 0,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "ActiveMagicStarWand",
+   "type": 547,
+   "cell": 1,
+   "cat": "Weapons"
+  },
+  {
+   "name": "RoyalLegs",
+   "type": 221,
+   "cell": 2,
+   "cat": "Armor"
+  },
+  {
+   "name": "AureousLegs",
+   "type": 510,
+   "cell": 3,
+   "cat": "Armor"
+  },
+  {
+   "name": "Fur",
+   "type": 454,
+   "cell": 4,
+   "cat": "Valuables"
+  },
+  {
+   "name": "OldBackpack",
+   "type": 209,
+   "cell": 5,
+   "cat": "Containers"
+  },
+  {
+   "name": "Papaya",
+   "type": 323,
+   "cell": 6,
+   "cat": "Food"
+  },
+  {
+   "name": "BurlapHat",
+   "type": 346,
+   "cell": 7,
+   "cat": "Armor"
+  },
+  {
+   "name": "RedBookBerserk",
+   "type": 136,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "DarkArmor",
+   "type": 227,
+   "cell": 9,
+   "cat": "Armor"
+  },
+  {
+   "name": "WhiteMushroom",
+   "type": 24,
+   "cell": 10,
+   "cat": "Food"
+  },
+  {
+   "name": "CookedGameMeat",
+   "type": 468,
+   "cell": 11,
+   "cat": "Food"
+  },
+  {
+   "name": "RedRuneOthila",
+   "type": 410,
+   "cell": 12,
+   "cat": "Magic"
+  },
+  {
+   "name": "LeatherCloak",
+   "type": 193,
+   "cell": 13,
+   "cat": "Armor"
+  },
+  {
+   "name": "Spangenhelm",
+   "type": 85,
+   "cell": 14,
+   "cat": "Armor"
+  },
+  {
+   "name": "RedBookFireball",
+   "type": 111,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "Apple",
+   "type": 232,
+   "cell": 15,
+   "cat": "Food"
+  },
+  {
+   "name": "AmberRuneLaguz",
+   "type": 414,
+   "cell": 16,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowBookFindPerson",
+   "type": 258,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "PurpleRuneUruz",
+   "type": 420,
+   "cell": 18,
+   "cat": "Magic"
+  },
+  {
+   "name": "FatBoyLit",
+   "type": 572,
+   "cell": 19,
+   "cat": "Misc"
+  },
+  {
+   "name": "PurityHandWraps",
+   "type": 533,
+   "cell": 20,
+   "cat": "Armor"
+  },
+  {
+   "name": "RatCharm",
+   "type": 477,
+   "cell": 21,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "SpringDish",
+   "type": 74,
+   "cell": 22,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "CookedWholeFish",
+   "type": 66,
+   "cell": 23,
+   "cat": "Food"
+  },
+  {
+   "name": "RegenRing",
+   "type": 46,
+   "cell": 24,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "NightshadeRobe",
+   "type": 53,
+   "cell": 25,
+   "cat": "Armor"
+  },
+  {
+   "name": "GarnetRing",
+   "type": 124,
+   "cell": 26,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "MorningStar",
+   "type": 518,
+   "cell": 27,
+   "cat": "Weapons"
+  },
+  {
+   "name": "IronMace",
+   "type": 514,
+   "cell": 28,
+   "cat": "Weapons"
+  },
+  {
+   "name": "WarForetoken",
+   "type": 593,
+   "cell": 29,
+   "cat": "Valuables"
+  },
+  {
+   "name": "LeatherCuisse",
+   "type": 87,
+   "cell": 30,
+   "cat": "Valuables"
+  },
+  {
+   "name": "HolyResistPotion",
+   "type": 484,
+   "cell": 31,
+   "cat": "Potions"
+  },
+  {
+   "name": "NovelBook",
+   "type": 197,
+   "cell": 32,
+   "cat": "Magic"
+  },
+  {
+   "name": "SailorBoots",
+   "type": 321,
+   "cell": 33,
+   "cat": "Armor"
+  },
+  {
+   "name": "OnionRings",
+   "type": 183,
+   "cell": 34,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "Arbalest",
+   "type": 529,
+   "cell": 35,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SwampBigPot",
+   "type": 272,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "BlueBookLightMissile",
+   "type": 172,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "DarkRuneLaguz",
+   "type": 390,
+   "cell": 37,
+   "cat": "Magic"
+  },
+  {
+   "name": "GreenBag",
+   "type": 214,
+   "cell": 38,
+   "cat": "Containers"
+  },
+  {
+   "name": "BrassShield",
+   "type": 339,
+   "cell": 39,
+   "cat": "Armor"
+  },
+  {
+   "name": "Longsword",
+   "type": 92,
+   "cell": 40,
+   "cat": "Weapons"
+  },
+  {
+   "name": "AncientSword",
+   "type": 352,
+   "cell": 41,
+   "cat": "Weapons"
+  },
+  {
+   "name": "Cauldron",
+   "type": 79,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "HouseChair 1",
+   "type": 308,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "Knife",
+   "type": 77,
+   "cell": 43,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DarkRuneOthila",
+   "type": 394,
+   "cell": 44,
+   "cat": "Magic"
+  },
+  {
+   "name": "Gold",
+   "type": 76,
+   "cell": 45,
+   "cat": "Valuables"
+  },
+  {
+   "name": "GreenRuneOthila",
+   "type": 370,
+   "cell": 46,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueRuneAlgiz",
+   "type": 377,
+   "cell": 47,
+   "cat": "Magic"
+  },
+  {
+   "name": "TofuBlock",
+   "type": 22,
+   "cell": 48,
+   "cat": "Food"
+  },
+  {
+   "name": "WitchAlmanac",
+   "type": 206,
+   "cell": 49,
+   "cat": "Magic"
+  },
+  {
+   "name": "DesertBigChest",
+   "type": 342,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "BloodyHandkerchief",
+   "type": 326,
+   "cell": 50,
+   "cat": "Misc"
+  },
+  {
+   "name": "GreenPendant",
+   "type": 560,
+   "cell": 51,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "DruidCape",
+   "type": 224,
+   "cell": 52,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlueberryMuffin",
+   "type": 242,
+   "cell": 53,
+   "cat": "Food"
+  },
+  {
+   "name": "Strawberries",
+   "type": 457,
+   "cell": 54,
+   "cat": "Food"
+  },
+  {
+   "name": "EoforNewBook",
+   "type": 427,
+   "cell": 55,
+   "cat": "Magic"
+  },
+  {
+   "name": "Platinum",
+   "type": 194,
+   "cell": 56,
+   "cat": "Valuables"
+  },
+  {
+   "name": "RedBookPreciseShot",
+   "type": 108,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "SmallRibs",
+   "type": 579,
+   "cell": 57,
+   "cat": "Food"
+  },
+  {
+   "name": "CapitalSmallChest",
+   "type": 268,
+   "cell": -1,
+   "cat": "Armor"
+  },
+  {
+   "name": "Orb",
+   "type": 191,
+   "cell": 58,
+   "cat": "Magic"
+  },
+  {
+   "name": "PearlNecklace",
+   "type": 559,
+   "cell": 59,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "BreadPiece",
+   "type": 148,
+   "cell": 60,
+   "cat": "Food"
+  },
+  {
+   "name": "LeatherBascinet",
+   "type": 52,
+   "cell": 61,
+   "cat": "Valuables"
+  },
+  {
+   "name": "ClearGem",
+   "type": 459,
+   "cell": 62,
+   "cat": "Valuables"
+  },
+  {
+   "name": "MagicWall",
+   "type": 80,
+   "cell": -1,
+   "cat": "Magic"
+  },
+  {
+   "name": "LootBagEmpty3",
+   "type": 445,
+   "cell": 63,
+   "cat": "Containers"
+  },
+  {
+   "name": "PlainsWoodbox",
+   "type": 81,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "Diamond",
+   "type": 568,
+   "cell": 64,
+   "cat": "Valuables"
+  },
+  {
+   "name": "SimpleBag",
+   "type": 99,
+   "cell": 65,
+   "cat": "Containers"
+  },
+  {
+   "name": "WizardRobe",
+   "type": 222,
+   "cell": 66,
+   "cat": "Armor"
+  },
+  {
+   "name": "MoonIngot",
+   "type": 333,
+   "cell": 67,
+   "cat": "Valuables"
+  },
+  {
+   "name": "Snapper",
+   "type": 360,
+   "cell": 68,
+   "cat": "Food"
+  },
+  {
+   "name": "PlatedBoots",
+   "type": 49,
+   "cell": 69,
+   "cat": "Armor"
+  },
+  {
+   "name": "AncientHandle",
+   "type": 356,
+   "cell": 70,
+   "cat": "Valuables"
+  },
+  {
+   "name": "BlueBackpack",
+   "type": 325,
+   "cell": 71,
+   "cat": "Containers"
+  },
+  {
+   "name": "Sushi",
+   "type": 565,
+   "cell": 72,
+   "cat": "Food"
+  },
+  {
+   "name": "CrookedVest",
+   "type": 131,
+   "cell": 73,
+   "cat": "Armor"
+  },
+  {
+   "name": "VanguardShield",
+   "type": 458,
+   "cell": 74,
+   "cat": "Armor"
+  },
+  {
+   "name": "Garnet",
+   "type": 570,
+   "cell": 75,
+   "cat": "Tools"
+  },
+  {
+   "name": "EvilBookConjureDeath",
+   "type": 441,
+   "cell": 76,
+   "cat": "Magic"
+  },
+  {
+   "name": "IronCrude",
+   "type": 205,
+   "cell": 77,
+   "cat": "Valuables"
+  },
+  {
+   "name": "CattailFlower",
+   "type": 11,
+   "cell": 78,
+   "cat": "Misc"
+  },
+  {
+   "name": "HouseBox",
+   "type": 280,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "BrigandineLegs",
+   "type": 63,
+   "cell": 79,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlackChessKnight",
+   "type": 435,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "PurityMail",
+   "type": 531,
+   "cell": 81,
+   "cat": "Armor"
+  },
+  {
+   "name": "Rope",
+   "type": 261,
+   "cell": 82,
+   "cat": "Tools"
+  },
+  {
+   "name": "AureousHelmet",
+   "type": 512,
+   "cell": 83,
+   "cat": "Armor"
+  },
+  {
+   "name": "Doughpot",
+   "type": 243,
+   "cell": 84,
+   "cat": "Food"
+  },
+  {
+   "name": "WhiteRuneHagalaz",
+   "type": 400,
+   "cell": 85,
+   "cat": "Magic"
+  },
+  {
+   "name": "PotionShipment",
+   "type": 211,
+   "cell": 86,
+   "cat": "Potions"
+  },
+  {
+   "name": "Crowbar",
+   "type": 262,
+   "cell": 87,
+   "cat": "Valuables"
+  },
+  {
+   "name": "SpiderRepellent",
+   "type": 473,
+   "cell": 88,
+   "cat": "Tools"
+  },
+  {
+   "name": "BoletusPiece",
+   "type": 7,
+   "cell": 89,
+   "cat": "Food"
+  },
+  {
+   "name": "PurpleRuneIsa",
+   "type": 421,
+   "cell": 90,
+   "cat": "Magic"
+  },
+  {
+   "name": "DarkRuneRaido",
+   "type": 387,
+   "cell": 91,
+   "cat": "Magic"
+  },
+  {
+   "name": "AmberRuneKenaz",
+   "type": 415,
+   "cell": 92,
+   "cat": "Magic"
+  },
+  {
+   "name": "NightshadeKilt",
+   "type": 54,
+   "cell": 93,
+   "cat": "Armor"
+  },
+  {
+   "name": "AmberRuneIsa",
+   "type": 413,
+   "cell": 94,
+   "cat": "Magic"
+  },
+  {
+   "name": "GreenBackpack",
+   "type": 465,
+   "cell": 95,
+   "cat": "Containers"
+  },
+  {
+   "name": "MirelingBoots",
+   "type": 524,
+   "cell": 96,
+   "cat": "Armor"
+  },
+  {
+   "name": "SwampBarrel",
+   "type": 265,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "RedBookQuickAttack",
+   "type": 138,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "Depot",
+   "type": 180,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "SandwormMeal",
+   "type": 359,
+   "cell": 97,
+   "cat": "Food"
+  },
+  {
+   "name": "PlatedLegs",
+   "type": 41,
+   "cell": 98,
+   "cat": "Armor"
+  },
+  {
+   "name": "RoyalHelmet",
+   "type": 220,
+   "cell": 99,
+   "cat": "Armor"
+  },
+  {
+   "name": "BreadLoaf",
+   "type": 102,
+   "cell": 100,
+   "cat": "Food"
+  },
+  {
+   "name": "HouseChest 1",
+   "type": 307,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "StoreCharSlot",
+   "type": 304,
+   "cell": 101,
+   "cat": "Valuables"
+  },
+  {
+   "name": "WornPaper",
+   "type": 106,
+   "cell": 102,
+   "cat": "Misc"
+  },
+  {
+   "name": "KettleHelmet",
+   "type": 82,
+   "cell": 103,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlueRuneKenaz",
+   "type": 375,
+   "cell": 104,
+   "cat": "Magic"
+  },
+  {
+   "name": "OnyxRing",
+   "type": 277,
+   "cell": 105,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "PurpleRuneAlgiz",
+   "type": 425,
+   "cell": 106,
+   "cat": "Magic"
+  },
+  {
+   "name": "SmallSkull",
+   "type": 29,
+   "cell": 107,
+   "cat": "Valuables"
+  },
+  {
+   "name": "HookClaw",
+   "type": 126,
+   "cell": 108,
+   "cat": "Tools"
+  },
+  {
+   "name": "BlackChessKing",
+   "type": 437,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "DarkRuneIsa",
+   "type": 389,
+   "cell": 109,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowRuneUruz",
+   "type": 380,
+   "cell": 110,
+   "cat": "Magic"
+  },
+  {
+   "name": "Broadsword",
+   "type": 3,
+   "cell": 111,
+   "cat": "Weapons"
+  },
+  {
+   "name": "NorthBarrel",
+   "type": 449,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "Longbow",
+   "type": 91,
+   "cell": 112,
+   "cat": "Weapons"
+  },
+  {
+   "name": "QuokiHeadgear",
+   "type": 343,
+   "cell": 113,
+   "cat": "Armor"
+  },
+  {
+   "name": "WolfHelmet",
+   "type": 479,
+   "cell": 114,
+   "cat": "Armor"
+  },
+  {
+   "name": "OnyxLegs",
+   "type": 297,
+   "cell": 115,
+   "cat": "Armor"
+  },
+  {
+   "name": "SmokedSalmon",
+   "type": 567,
+   "cell": 116,
+   "cat": "Food"
+  },
+  {
+   "name": "HolyManuscript",
+   "type": 589,
+   "cell": 117,
+   "cat": "Magic"
+  },
+  {
+   "name": "PurpleRuneRaido",
+   "type": 419,
+   "cell": 118,
+   "cat": "Magic"
+  },
+  {
+   "name": "SwampSmallChest",
+   "type": 264,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "LootBagEmpty2",
+   "type": 444,
+   "cell": 119,
+   "cat": "Containers"
+  },
+  {
+   "name": "DarkRuneUruz",
+   "type": 388,
+   "cell": 120,
+   "cat": "Magic"
+  },
+  {
+   "name": "CopperPan",
+   "type": 535,
+   "cell": 121,
+   "cat": "Valuables"
+  },
+  {
+   "name": "StoreTraitReset",
+   "type": 306,
+   "cell": 122,
+   "cat": "Valuables"
+  },
+  {
+   "name": "AncientStaff",
+   "type": 353,
+   "cell": 123,
+   "cat": "Weapons"
+  },
+  {
+   "name": "PestilenceSword",
+   "type": 247,
+   "cell": 124,
+   "cat": "Weapons"
+  },
+  {
+   "name": "GreenRuneHagalaz",
+   "type": 368,
+   "cell": 125,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueRuneUruz",
+   "type": 372,
+   "cell": 126,
+   "cat": "Magic"
+  },
+  {
+   "name": "Gambeson",
+   "type": 83,
+   "cell": 127,
+   "cat": "Armor"
+  },
+  {
+   "name": "PurpleRuneOthila",
+   "type": 426,
+   "cell": 128,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedRuneRaido",
+   "type": 403,
+   "cell": 129,
+   "cat": "Magic"
+  },
+  {
+   "name": "SalmonRiceBowl",
+   "type": 564,
+   "cell": 130,
+   "cat": "Weapons"
+  },
+  {
+   "name": "LeatherCoif",
+   "type": 64,
+   "cell": 131,
+   "cat": "Armor"
+  },
+  {
+   "name": "CandleLit",
+   "type": 161,
+   "cell": 132,
+   "cat": "Misc"
+  },
+  {
+   "name": "Tomatoes",
+   "type": 238,
+   "cell": 133,
+   "cat": "Misc"
+  },
+  {
+   "name": "SwampCod",
+   "type": 16,
+   "cell": 134,
+   "cat": "Food"
+  },
+  {
+   "name": "WoodTwigs",
+   "type": 28,
+   "cell": 135,
+   "cat": "Valuables"
+  },
+  {
+   "name": "MysteriousProof",
+   "type": 592,
+   "cell": 136,
+   "cat": "Misc"
+  },
+  {
+   "name": "HouseDepot 4",
+   "type": 318,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "HouseTorchLit",
+   "type": 293,
+   "cell": 42,
+   "cat": "Tools"
+  },
+  {
+   "name": "GrilledCheese",
+   "type": 186,
+   "cell": 137,
+   "cat": "Food"
+  },
+  {
+   "name": "ChainMail",
+   "type": 84,
+   "cell": 138,
+   "cat": "Armor"
+  },
+  {
+   "name": "MerchantsBag",
+   "type": 217,
+   "cell": 139,
+   "cat": "Containers"
+  },
+  {
+   "name": "YellowBookSurge",
+   "type": 493,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "BattleAxe",
+   "type": 452,
+   "cell": 140,
+   "cat": "Weapons"
+  },
+  {
+   "name": "HouseChair 4",
+   "type": 315,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "HouseRuneTable 1",
+   "type": 496,
+   "cell": 42,
+   "cat": "Magic"
+  },
+  {
+   "name": "WhiteRuneLaguz",
+   "type": 398,
+   "cell": 141,
+   "cat": "Magic"
+  },
+  {
+   "name": "FireResistPotion",
+   "type": 485,
+   "cell": 142,
+   "cat": "Potions"
+  },
+  {
+   "name": "BlueRose",
+   "type": 201,
+   "cell": 143,
+   "cat": "Misc"
+  },
+  {
+   "name": "BoneKnife",
+   "type": 351,
+   "cell": 144,
+   "cat": "Weapons"
+  },
+  {
+   "name": "LeafBlade",
+   "type": 462,
+   "cell": 145,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SkalishNecklace",
+   "type": 558,
+   "cell": 146,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "CapitalBigChest",
+   "type": 267,
+   "cell": -1,
+   "cat": "Armor"
+  },
+  {
+   "name": "BraniganLetter",
+   "type": 198,
+   "cell": 147,
+   "cat": "Misc"
+  },
+  {
+   "name": "BigBone",
+   "type": 577,
+   "cell": 148,
+   "cat": "Valuables"
+  },
+  {
+   "name": "WoodenSpoon",
+   "type": 27,
+   "cell": 149,
+   "cat": "Valuables"
+  },
+  {
+   "name": "TalismanPouch",
+   "type": 464,
+   "cell": 150,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "RedRuneLaguz",
+   "type": 406,
+   "cell": 151,
+   "cat": "Magic"
+  },
+  {
+   "name": "ForsakenCross",
+   "type": 107,
+   "cell": 152,
+   "cat": "Misc"
+  },
+  {
+   "name": "StoreHouseVoucher",
+   "type": 299,
+   "cell": 153,
+   "cat": "Valuables"
+  },
+  {
+   "name": "WhiteChessRook",
+   "type": 428,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "Torch",
+   "type": 119,
+   "cell": 154,
+   "cat": "Tools"
+  },
+  {
+   "name": "EvilBookSummonDeath",
+   "type": 488,
+   "cell": 76,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowBookBlink",
+   "type": 492,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "Lantern",
+   "type": 164,
+   "cell": 155,
+   "cat": "Tools"
+  },
+  {
+   "name": "Bachall",
+   "type": 461,
+   "cell": 156,
+   "cat": "Misc"
+  },
+  {
+   "name": "TridentToken",
+   "type": 549,
+   "cell": 157,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SalmonSteak",
+   "type": 566,
+   "cell": 158,
+   "cat": "Food"
+  },
+  {
+   "name": "DesertBigPot",
+   "type": 34,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "WhiteChessPawn",
+   "type": 433,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "SkalishHeavyBow",
+   "type": 528,
+   "cell": 159,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BigManaPotion",
+   "type": 6,
+   "cell": 160,
+   "cat": "Potions"
+  },
+  {
+   "name": "WhiteChessQueen",
+   "type": 432,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "MagicArrow",
+   "type": 362,
+   "cell": 161,
+   "cat": "Misc"
+  },
+  {
+   "name": "CookedFishSteak",
+   "type": 68,
+   "cell": 162,
+   "cat": "Food"
+  },
+  {
+   "name": "WoodenBow",
+   "type": 42,
+   "cell": 163,
+   "cat": "Weapons"
+  },
+  {
+   "name": "YellowRuneHagalaz",
+   "type": 384,
+   "cell": 164,
+   "cat": "Magic"
+  },
+  {
+   "name": "Orange",
+   "type": 233,
+   "cell": 165,
+   "cat": "Food"
+  },
+  {
+   "name": "YellowRuneLaguz",
+   "type": 382,
+   "cell": 166,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowRuneIsa",
+   "type": 381,
+   "cell": 167,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowBookSummonWisp",
+   "type": 594,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "HealthPotion",
+   "type": 17,
+   "cell": 168,
+   "cat": "Potions"
+  },
+  {
+   "name": "PurpleRuneKenaz",
+   "type": 423,
+   "cell": 169,
+   "cat": "Magic"
+  },
+  {
+   "name": "IronPan",
+   "type": 18,
+   "cell": 170,
+   "cat": "Valuables"
+  },
+  {
+   "name": "PowerBolt",
+   "type": 557,
+   "cell": 171,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedBookConjureFire",
+   "type": 151,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "BattleCloak",
+   "type": 460,
+   "cell": 172,
+   "cat": "Armor"
+  },
+  {
+   "name": "Skalstone",
+   "type": 534,
+   "cell": 173,
+   "cat": "Valuables"
+  },
+  {
+   "name": "Paper",
+   "type": 163,
+   "cell": 174,
+   "cat": "Misc"
+  },
+  {
+   "name": "DarkRobe",
+   "type": 96,
+   "cell": 175,
+   "cat": "Armor"
+  },
+  {
+   "name": "GreenRuneLaguz",
+   "type": 366,
+   "cell": 176,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueBookIceBerserk",
+   "type": 291,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "WarHammer",
+   "type": 520,
+   "cell": 177,
+   "cat": "Weapons"
+  },
+  {
+   "name": "OldRing",
+   "type": 94,
+   "cell": 178,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "AncientGem",
+   "type": 355,
+   "cell": 179,
+   "cat": "Valuables"
+  },
+  {
+   "name": "AureousArmor",
+   "type": 511,
+   "cell": 180,
+   "cat": "Armor"
+  },
+  {
+   "name": "SmallBomb",
+   "type": 507,
+   "cell": 181,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedBookThrash",
+   "type": 329,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "WheatBag",
+   "type": 177,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "Egg",
+   "type": 575,
+   "cell": 182,
+   "cat": "Food"
+  },
+  {
+   "name": "HouseRuneTable 4",
+   "type": 499,
+   "cell": 42,
+   "cat": "Magic"
+  },
+  {
+   "name": "EmptyPot",
+   "type": 13,
+   "cell": 183,
+   "cat": "Containers"
+  },
+  {
+   "name": "SkalishKnife",
+   "type": 527,
+   "cell": 184,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SkalishBlade",
+   "type": 526,
+   "cell": 185,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BlueBookLight",
+   "type": 118,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "Rawhide",
+   "type": 455,
+   "cell": 186,
+   "cat": "Valuables"
+  },
+  {
+   "name": "HouseRuneTable 3",
+   "type": 498,
+   "cell": 42,
+   "cat": "Magic"
+  },
+  {
+   "name": "OldAmulet",
+   "type": 591,
+   "cell": 187,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "BlueInk",
+   "type": 195,
+   "cell": 188,
+   "cat": "Misc"
+  },
+  {
+   "name": "StoreWorldChat",
+   "type": 303,
+   "cell": 189,
+   "cat": "Armor"
+  },
+  {
+   "name": "Groundstand",
+   "type": 255,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "CrystalShard",
+   "type": 134,
+   "cell": 190,
+   "cat": "Valuables"
+  },
+  {
+   "name": "BigEmptyPot",
+   "type": 4,
+   "cell": 191,
+   "cat": "Containers"
+  },
+  {
+   "name": "SquareBag",
+   "type": 216,
+   "cell": 192,
+   "cat": "Containers"
+  },
+  {
+   "name": "HouseChest 4",
+   "type": 312,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "GreenBookTaunt",
+   "type": 115,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "RitualDagger",
+   "type": 481,
+   "cell": 194,
+   "cat": "Weapons"
+  },
+  {
+   "name": "CookbookApplePie",
+   "type": 287,
+   "cell": 195,
+   "cat": "Food"
+  },
+  {
+   "name": "HouseChair 3",
+   "type": 314,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "SilverWand",
+   "type": 538,
+   "cell": 196,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BrownBackpack",
+   "type": 9,
+   "cell": 197,
+   "cat": "Containers"
+  },
+  {
+   "name": "LambMeat",
+   "type": 101,
+   "cell": 198,
+   "cat": "Food"
+  },
+  {
+   "name": "Scarf",
+   "type": 296,
+   "cell": 199,
+   "cat": "Misc"
+  },
+  {
+   "name": "Forge",
+   "type": 327,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "PlaguedScale",
+   "type": 125,
+   "cell": 200,
+   "cat": "Misc"
+  },
+  {
+   "name": "Prism",
+   "type": 550,
+   "cell": 201,
+   "cat": "Misc"
+  },
+  {
+   "name": "Ruby",
+   "type": 569,
+   "cell": 202,
+   "cat": "Valuables"
+  },
+  {
+   "name": "MagicStarWand",
+   "type": 541,
+   "cell": 203,
+   "cat": "Weapons"
+  },
+  {
+   "name": "WhiteRuneRaido",
+   "type": 395,
+   "cell": 204,
+   "cat": "Magic"
+  },
+  {
+   "name": "RingOfFire",
+   "type": 279,
+   "cell": 205,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "Bagnoff",
+   "type": 213,
+   "cell": 206,
+   "cat": "Containers"
+  },
+  {
+   "name": "StoneShortbow",
+   "type": 254,
+   "cell": 207,
+   "cat": "Weapons"
+  },
+  {
+   "name": "RatTail",
+   "type": 121,
+   "cell": 208,
+   "cat": "Misc"
+  },
+  {
+   "name": "DarkRuneHagalaz",
+   "type": 392,
+   "cell": 209,
+   "cat": "Magic"
+  },
+  {
+   "name": "SpikedClub",
+   "type": 519,
+   "cell": 210,
+   "cat": "Weapons"
+  },
+  {
+   "name": "WoodenStaff",
+   "type": 89,
+   "cell": 211,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SerpentSword",
+   "type": 248,
+   "cell": 212,
+   "cat": "Weapons"
+  },
+  {
+   "name": "PurpleRuneLaguz",
+   "type": 422,
+   "cell": 213,
+   "cat": "Magic"
+  },
+  {
+   "name": "GreenRuneRaido",
+   "type": 363,
+   "cell": 214,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlessedAmulet",
+   "type": 43,
+   "cell": 215,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "EvilCharm",
+   "type": 480,
+   "cell": 216,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "BlackChessRook",
+   "type": 434,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "ActiveWandOfGreen",
+   "type": 545,
+   "cell": 217,
+   "cat": "Weapons"
+  },
+  {
+   "name": "ActiveTridentToken",
+   "type": 553,
+   "cell": 218,
+   "cat": "Weapons"
+  },
+  {
+   "name": "ActiveBlessedAmulet",
+   "type": 453,
+   "cell": 219,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "DarkRuneKenaz",
+   "type": 391,
+   "cell": 220,
+   "cat": "Magic"
+  },
+  {
+   "name": "AleMug",
+   "type": 178,
+   "cell": 221,
+   "cat": "Misc"
+  },
+  {
+   "name": "ClothPants",
+   "type": 51,
+   "cell": 222,
+   "cat": "Valuables"
+  },
+  {
+   "name": "OmenShard",
+   "type": 552,
+   "cell": 223,
+   "cat": "Misc"
+  },
+  {
+   "name": "TinIngot",
+   "type": 331,
+   "cell": 224,
+   "cat": "Valuables"
+  },
+  {
+   "name": "Rice",
+   "type": 20,
+   "cell": 225,
+   "cat": "Misc"
+  },
+  {
+   "name": "WhiteRuneKenaz",
+   "type": 399,
+   "cell": 226,
+   "cat": "Magic"
+  },
+  {
+   "name": "LootBag 2",
+   "type": 37,
+   "cell": 119,
+   "cat": "Containers"
+  },
+  {
+   "name": "HerbBag",
+   "type": 203,
+   "cell": 227,
+   "cat": "Containers"
+  },
+  {
+   "name": "HouseChest 3",
+   "type": 311,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "GreenBookDash",
+   "type": 114,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "StorePremium",
+   "type": 324,
+   "cell": 228,
+   "cat": "Valuables"
+  },
+  {
+   "name": "GreenOrb",
+   "type": 252,
+   "cell": 229,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowBookMagicGrowth",
+   "type": 153,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "AureousBoots",
+   "type": 509,
+   "cell": 230,
+   "cat": "Armor"
+  },
+  {
+   "name": "SwampBigChest",
+   "type": 263,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "HouseRuneTable 2",
+   "type": 497,
+   "cell": 42,
+   "cat": "Magic"
+  },
+  {
+   "name": "RiceDish",
+   "type": 72,
+   "cell": 231,
+   "cat": "Misc"
+  },
+  {
+   "name": "CrystalStaff",
+   "type": 39,
+   "cell": 232,
+   "cat": "Weapons"
+  },
+  {
+   "name": "InvisibilityRing",
+   "type": 581,
+   "cell": 233,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "SpringStew",
+   "type": 71,
+   "cell": 234,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "RubyAmulet",
+   "type": 93,
+   "cell": 235,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "BlueBookMagicWall",
+   "type": 117,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "TorchLit",
+   "type": 120,
+   "cell": 236,
+   "cat": "Tools"
+  },
+  {
+   "name": "SimplebookGreen",
+   "type": 168,
+   "cell": 237,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedBookFireGale",
+   "type": 490,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "DiamondRing",
+   "type": 276,
+   "cell": 238,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "WilfredPackage",
+   "type": 210,
+   "cell": 239,
+   "cat": "Misc"
+  },
+  {
+   "name": "EvilBookVampiricBite",
+   "type": 442,
+   "cell": 76,
+   "cat": "Magic"
+  },
+  {
+   "name": "BrassPlate",
+   "type": 295,
+   "cell": 240,
+   "cat": "Armor"
+  },
+  {
+   "name": "SilverMask",
+   "type": 231,
+   "cell": 241,
+   "cat": "Valuables"
+  },
+  {
+   "name": "GreenBookSummonRat",
+   "type": 583,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedRuneHagalaz",
+   "type": 408,
+   "cell": 242,
+   "cat": "Magic"
+  },
+  {
+   "name": "OnyxHelmet",
+   "type": 229,
+   "cell": 243,
+   "cat": "Armor"
+  },
+  {
+   "name": "HouseAnvil 2",
+   "type": 336,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "ActiveRegenRing",
+   "type": 75,
+   "cell": 244,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "RedBookLightning",
+   "type": 139,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "BearCharm",
+   "type": 475,
+   "cell": 245,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "PumpkinPie",
+   "type": 244,
+   "cell": 246,
+   "cat": "Food"
+  },
+  {
+   "name": "ForgebookCommonItems",
+   "type": 334,
+   "cell": 247,
+   "cat": "Magic"
+  },
+  {
+   "name": "BoneBow",
+   "type": 344,
+   "cell": 248,
+   "cat": "Weapons"
+  },
+  {
+   "name": "LootBag 1",
+   "type": 36,
+   "cell": 249,
+   "cat": "Containers"
+  },
+  {
+   "name": "CookbookFishSteak",
+   "type": 288,
+   "cell": 250,
+   "cat": "Food"
+  },
+  {
+   "name": "BurlapSkirt",
+   "type": 347,
+   "cell": 251,
+   "cat": "Misc"
+  },
+  {
+   "name": "AureousGauntlet",
+   "type": 513,
+   "cell": 252,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlackChessPawn",
+   "type": 439,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "GreenRuneUruz",
+   "type": 364,
+   "cell": 253,
+   "cat": "Magic"
+  },
+  {
+   "name": "SimpleWand",
+   "type": 537,
+   "cell": 254,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DoubleAxe",
+   "type": 517,
+   "cell": 255,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SilverAmulet",
+   "type": 59,
+   "cell": 256,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "HouseChair 2",
+   "type": 313,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "OldAxe",
+   "type": 472,
+   "cell": 257,
+   "cat": "Weapons"
+  },
+  {
+   "name": "YellowBookStarlight",
+   "type": 319,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueRuneIsa",
+   "type": 373,
+   "cell": 258,
+   "cat": "Magic"
+  },
+  {
+   "name": "ClothVest",
+   "type": 1,
+   "cell": 259,
+   "cat": "Armor"
+  },
+  {
+   "name": "Bolt",
+   "type": 466,
+   "cell": 260,
+   "cat": "Misc"
+  },
+  {
+   "name": "CapitalWoodbox",
+   "type": 270,
+   "cell": -1,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlackBag",
+   "type": 10,
+   "cell": 261,
+   "cat": "Containers"
+  },
+  {
+   "name": "DruidHat",
+   "type": 225,
+   "cell": 262,
+   "cat": "Armor"
+  },
+  {
+   "name": "YellowBookHoly",
+   "type": 113,
+   "cell": 17,
+   "cat": "Magic"
+  },
+  {
+   "name": "ActivePrism",
+   "type": 554,
+   "cell": 263,
+   "cat": "Misc"
+  },
+  {
+   "name": "GreenBookConjureArrow",
+   "type": 285,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedBookFierceThrust",
+   "type": 109,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "WhiteRuneAlgiz",
+   "type": 401,
+   "cell": 264,
+   "cat": "Magic"
+  },
+  {
+   "name": "ActiveSimpleWand",
+   "type": 543,
+   "cell": 265,
+   "cat": "Weapons"
+  },
+  {
+   "name": "SwampWoodbox",
+   "type": 266,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "BranorLetter",
+   "type": 204,
+   "cell": 266,
+   "cat": "Misc"
+  },
+  {
+   "name": "Potato",
+   "type": 144,
+   "cell": 267,
+   "cat": "Containers"
+  },
+  {
+   "name": "HeartOfTheTree",
+   "type": 478,
+   "cell": 268,
+   "cat": "Misc"
+  },
+  {
+   "name": "MonkHabit",
+   "type": 590,
+   "cell": 269,
+   "cat": "Misc"
+  },
+  {
+   "name": "BlueBookWindfall",
+   "type": 446,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "ScaleKilt",
+   "type": 471,
+   "cell": 270,
+   "cat": "Armor"
+  },
+  {
+   "name": "HouseSign",
+   "type": 259,
+   "cell": -1,
+   "cat": "Furniture"
+  },
+  {
+   "name": "GarlicBread",
+   "type": 184,
+   "cell": 271,
+   "cat": "Food"
+  },
+  {
+   "name": "CookbookGrilledCheese",
+   "type": 286,
+   "cell": 247,
+   "cat": "Food"
+  },
+  {
+   "name": "PlainsBarrel",
+   "type": 32,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "StoneStaff",
+   "type": 253,
+   "cell": 272,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BurlapWool",
+   "type": 349,
+   "cell": 273,
+   "cat": "Valuables"
+  },
+  {
+   "name": "SmallBombLit",
+   "type": 571,
+   "cell": 274,
+   "cat": "Misc"
+  },
+  {
+   "name": "DrystanLetter",
+   "type": 212,
+   "cell": 275,
+   "cat": "Misc"
+  },
+  {
+   "name": "MeatyDish",
+   "type": 129,
+   "cell": 276,
+   "cat": "Food"
+  },
+  {
+   "name": "BlueBookConjureRope",
+   "type": 495,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "Candle",
+   "type": 160,
+   "cell": 277,
+   "cat": "Misc"
+  },
+  {
+   "name": "YellowRuneOthila",
+   "type": 386,
+   "cell": 278,
+   "cat": "Magic"
+  },
+  {
+   "name": "BakedPotato",
+   "type": 182,
+   "cell": 279,
+   "cat": "Containers"
+  },
+  {
+   "name": "AncientHilt",
+   "type": 357,
+   "cell": 280,
+   "cat": "Misc"
+  },
+  {
+   "name": "PotionAquaBase",
+   "type": 202,
+   "cell": 281,
+   "cat": "Potions"
+  },
+  {
+   "name": "WoodenShield",
+   "type": 294,
+   "cell": 282,
+   "cat": "Armor"
+  },
+  {
+   "name": "BreadBowlStew",
+   "type": 187,
+   "cell": 283,
+   "cat": "Weapons"
+  },
+  {
+   "name": "CrystalShield",
+   "type": 578,
+   "cell": 284,
+   "cat": "Armor"
+  },
+  {
+   "name": "SmallBones",
+   "type": 8,
+   "cell": 285,
+   "cat": "Valuables"
+  },
+  {
+   "name": "SteelKnife",
+   "type": 536,
+   "cell": 286,
+   "cat": "Weapons"
+  },
+  {
+   "name": "StorePvpSwap",
+   "type": 300,
+   "cell": 287,
+   "cat": "Valuables"
+  },
+  {
+   "name": "NotebookYellow",
+   "type": 167,
+   "cell": 195,
+   "cat": "Magic"
+  },
+  {
+   "name": "EmptyFlasks",
+   "type": 200,
+   "cell": 288,
+   "cat": "Potions"
+  },
+  {
+   "name": "Well",
+   "type": 78,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "Greatsword",
+   "type": 133,
+   "cell": 289,
+   "cat": "Weapons"
+  },
+  {
+   "name": "OccultistBook",
+   "type": 196,
+   "cell": 290,
+   "cat": "Magic"
+  },
+  {
+   "name": "PleaToe",
+   "type": 208,
+   "cell": 291,
+   "cat": "Misc"
+  },
+  {
+   "name": "GreenBookHaste",
+   "type": 173,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "EulerPants",
+   "type": 273,
+   "cell": 292,
+   "cat": "Misc"
+  },
+  {
+   "name": "RoyalDagger",
+   "type": 250,
+   "cell": 293,
+   "cat": "Weapons"
+  },
+  {
+   "name": "GreatAxe",
+   "type": 450,
+   "cell": 294,
+   "cat": "Weapons"
+  },
+  {
+   "name": "AmberRuneOthila",
+   "type": 418,
+   "cell": 295,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueRuneOthila",
+   "type": 378,
+   "cell": 296,
+   "cat": "Magic"
+  },
+  {
+   "name": "Teleport",
+   "type": 257,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "NorthSmallChest",
+   "type": 448,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "WhiteChessKnight",
+   "type": 429,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "IronIngot",
+   "type": 330,
+   "cell": 297,
+   "cat": "Valuables"
+  },
+  {
+   "name": "RunebookEnchant",
+   "type": 585,
+   "cell": 250,
+   "cat": "Magic"
+  },
+  {
+   "name": "ElvishAmanita",
+   "type": 580,
+   "cell": 298,
+   "cat": "Food"
+  },
+  {
+   "name": "GoldenButton",
+   "type": 159,
+   "cell": 299,
+   "cat": "Valuables"
+  },
+  {
+   "name": "LeatherGloves",
+   "type": 61,
+   "cell": 300,
+   "cat": "Armor"
+  },
+  {
+   "name": "GrayBackpack",
+   "type": 340,
+   "cell": 301,
+   "cat": "Containers"
+  },
+  {
+   "name": "HouseAnvil 4",
+   "type": 338,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "Onion",
+   "type": 143,
+   "cell": 302,
+   "cat": "Misc"
+  },
+  {
+   "name": "ActiveTwistedWand",
+   "type": 546,
+   "cell": 303,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DesertSmallChest",
+   "type": 341,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "RedBookCryingArrow",
+   "type": 137,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "SilverMace",
+   "type": 515,
+   "cell": 304,
+   "cat": "Weapons"
+  },
+  {
+   "name": "GreenRuneIsa",
+   "type": 365,
+   "cell": 305,
+   "cat": "Magic"
+  },
+  {
+   "name": "PoisonResistPotion",
+   "type": 482,
+   "cell": 306,
+   "cat": "Potions"
+  },
+  {
+   "name": "PocketWatch",
+   "type": 189,
+   "cell": 307,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedRuneKenaz",
+   "type": 407,
+   "cell": 308,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedBookCharge",
+   "type": 140,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "Rose",
+   "type": 154,
+   "cell": 309,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedBookRockThrow",
+   "type": 175,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "DarkDagger",
+   "type": 563,
+   "cell": 310,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BowlOfWater",
+   "type": 69,
+   "cell": 311,
+   "cat": "Weapons"
+  },
+  {
+   "name": "HouseSeat",
+   "type": 281,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "YellowBeauty",
+   "type": 156,
+   "cell": 312,
+   "cat": "Misc"
+  },
+  {
+   "name": "PlatedGauntlet",
+   "type": 98,
+   "cell": 313,
+   "cat": "Armor"
+  },
+  {
+   "name": "WhiteChessBishop",
+   "type": 430,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "MirelingArmor",
+   "type": 522,
+   "cell": 314,
+   "cat": "Armor"
+  },
+  {
+   "name": "DeathResistPotion",
+   "type": 483,
+   "cell": 315,
+   "cat": "Potions"
+  },
+  {
+   "name": "SwampSmallPot",
+   "type": 271,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "LootBagEmpty1",
+   "type": 443,
+   "cell": 249,
+   "cat": "Containers"
+  },
+  {
+   "name": "PumpkinSlice",
+   "type": 240,
+   "cell": 316,
+   "cat": "Misc"
+  },
+  {
+   "name": "HouseTorch",
+   "type": 283,
+   "cell": 42,
+   "cat": "Tools"
+  },
+  {
+   "name": "GoldenTorc",
+   "type": 463,
+   "cell": 317,
+   "cat": "Valuables"
+  },
+  {
+   "name": "CookedWhiteMushroom",
+   "type": 65,
+   "cell": 318,
+   "cat": "Food"
+  },
+  {
+   "name": "Bookcase",
+   "type": 176,
+   "cell": -1,
+   "cat": "Magic"
+  },
+  {
+   "name": "StuddedShield",
+   "type": 2,
+   "cell": 319,
+   "cat": "Armor"
+  },
+  {
+   "name": "ColocasiaSeed",
+   "type": 12,
+   "cell": 320,
+   "cat": "Misc"
+  },
+  {
+   "name": "MagicianShoes",
+   "type": 55,
+   "cell": 321,
+   "cat": "Misc"
+  },
+  {
+   "name": "PlainsBigChest",
+   "type": 30,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "YellowRuneKenaz",
+   "type": 383,
+   "cell": 322,
+   "cat": "Magic"
+  },
+  {
+   "name": "HeroFlower",
+   "type": 158,
+   "cell": 323,
+   "cat": "Misc"
+  },
+  {
+   "name": "SnowBarrel",
+   "type": 573,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "PleaEffigy",
+   "type": 551,
+   "cell": 324,
+   "cat": "Misc"
+  },
+  {
+   "name": "Pumpkin",
+   "type": 239,
+   "cell": 325,
+   "cat": "Misc"
+  },
+  {
+   "name": "CapitalBarrel",
+   "type": 269,
+   "cell": -1,
+   "cat": "Armor"
+  },
+  {
+   "name": "PurityChausses",
+   "type": 532,
+   "cell": 326,
+   "cat": "Misc"
+  },
+  {
+   "name": "ApplePie",
+   "type": 245,
+   "cell": 327,
+   "cat": "Food"
+  },
+  {
+   "name": "Wheat",
+   "type": 103,
+   "cell": 328,
+   "cat": "Misc"
+  },
+  {
+   "name": "Discombobulator",
+   "type": 284,
+   "cell": 329,
+   "cat": "Misc"
+  },
+  {
+   "name": "BlueGill",
+   "type": 15,
+   "cell": 330,
+   "cat": "Misc"
+  },
+  {
+   "name": "MagicianHat",
+   "type": 56,
+   "cell": 331,
+   "cat": "Armor"
+  },
+  {
+   "name": "CastleTicket",
+   "type": 584,
+   "cell": 332,
+   "cat": "Misc"
+  },
+  {
+   "name": "VecanAxe",
+   "type": 451,
+   "cell": 333,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DarkRuneAlgiz",
+   "type": 393,
+   "cell": 334,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueBookManaShield",
+   "type": 298,
+   "cell": 36,
+   "cat": "Armor"
+  },
+  {
+   "name": "EnchantTable",
+   "type": 500,
+   "cell": -1,
+   "cat": "Furniture"
+  },
+  {
+   "name": "RockCore",
+   "type": 348,
+   "cell": 335,
+   "cat": "Valuables"
+  },
+  {
+   "name": "HouseAnvil 3",
+   "type": 337,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "Quiche",
+   "type": 241,
+   "cell": 336,
+   "cat": "Misc"
+  },
+  {
+   "name": "DarkBeads",
+   "type": 561,
+   "cell": 337,
+   "cat": "Misc"
+  },
+  {
+   "name": "HouseDepot 1",
+   "type": 309,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "Ironsword",
+   "type": 88,
+   "cell": 338,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DarkOrb",
+   "type": 506,
+   "cell": 339,
+   "cat": "Magic"
+  },
+  {
+   "name": "WizardHat",
+   "type": 223,
+   "cell": 340,
+   "cat": "Armor"
+  },
+  {
+   "name": "Wool",
+   "type": 104,
+   "cell": 341,
+   "cat": "Valuables"
+  },
+  {
+   "name": "NordhicSalmon",
+   "type": 562,
+   "cell": 342,
+   "cat": "Food"
+  },
+  {
+   "name": "QuokiShoes",
+   "type": 350,
+   "cell": 343,
+   "cat": "Misc"
+  },
+  {
+   "name": "WandOfGreen",
+   "type": 539,
+   "cell": 344,
+   "cat": "Weapons"
+  },
+  {
+   "name": "WingedBoots",
+   "type": 48,
+   "cell": 345,
+   "cat": "Armor"
+  },
+  {
+   "name": "CookbookSpicyStew",
+   "type": 289,
+   "cell": 237,
+   "cat": "Food"
+  },
+  {
+   "name": "ManaPotion",
+   "type": 19,
+   "cell": 346,
+   "cat": "Potions"
+  },
+  {
+   "name": "Garlic",
+   "type": 145,
+   "cell": 347,
+   "cat": "Misc"
+  },
+  {
+   "name": "Fireplace",
+   "type": 256,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "AmberRuneUruz",
+   "type": 412,
+   "cell": 348,
+   "cat": "Magic"
+  },
+  {
+   "name": "RustySword",
+   "type": 188,
+   "cell": 349,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DesertSmallPot",
+   "type": 33,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "ScaleArmor",
+   "type": 470,
+   "cell": 350,
+   "cat": "Armor"
+  },
+  {
+   "name": "LeatherCollar",
+   "type": 60,
+   "cell": 351,
+   "cat": "Valuables"
+  },
+  {
+   "name": "BlackWool",
+   "type": 105,
+   "cell": 352,
+   "cat": "Valuables"
+  },
+  {
+   "name": "CookedSnapper",
+   "type": 361,
+   "cell": 353,
+   "cat": "Food"
+  },
+  {
+   "name": "BrigandineVest",
+   "type": 62,
+   "cell": 354,
+   "cat": "Armor"
+  },
+  {
+   "name": "AureousMace",
+   "type": 516,
+   "cell": 355,
+   "cat": "Weapons"
+  },
+  {
+   "name": "AmberRuneRaido",
+   "type": 411,
+   "cell": 356,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedOrb",
+   "type": 218,
+   "cell": 357,
+   "cat": "Magic"
+  },
+  {
+   "name": "DriedLog",
+   "type": 35,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "LootBag 3",
+   "type": 38,
+   "cell": 63,
+   "cat": "Containers"
+  },
+  {
+   "name": "WhiteRuneIsa",
+   "type": 397,
+   "cell": 358,
+   "cat": "Magic"
+  },
+  {
+   "name": "EvilBookDarkBeam",
+   "type": 440,
+   "cell": 76,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowBookShieldBlock",
+   "type": 112,
+   "cell": 17,
+   "cat": "Armor"
+  },
+  {
+   "name": "LanternLit",
+   "type": 165,
+   "cell": 359,
+   "cat": "Tools"
+  },
+  {
+   "name": "LeatherBoots",
+   "type": 57,
+   "cell": 360,
+   "cat": "Armor"
+  },
+  {
+   "name": "NotebookRed",
+   "type": 166,
+   "cell": 247,
+   "cat": "Magic"
+  },
+  {
+   "name": "BrassKnuckles",
+   "type": 504,
+   "cell": 361,
+   "cat": "Misc"
+  },
+  {
+   "name": "ElixirPotion",
+   "type": 501,
+   "cell": 362,
+   "cat": "Potions"
+  },
+  {
+   "name": "WhiteRuneOthila",
+   "type": 402,
+   "cell": 363,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedRuneIsa",
+   "type": 405,
+   "cell": 364,
+   "cat": "Magic"
+  },
+  {
+   "name": "StuffedWhiteRat",
+   "type": 199,
+   "cell": 365,
+   "cat": "Misc"
+  },
+  {
+   "name": "Cutlass",
+   "type": 190,
+   "cell": 366,
+   "cat": "Weapons"
+  },
+  {
+   "name": "DarkLegs",
+   "type": 226,
+   "cell": 367,
+   "cat": "Armor"
+  },
+  {
+   "name": "BigEvilBook",
+   "type": 171,
+   "cell": 76,
+   "cat": "Magic"
+  },
+  {
+   "name": "Epee",
+   "type": 290,
+   "cell": 368,
+   "cat": "Misc"
+  },
+  {
+   "name": "Arrow",
+   "type": 44,
+   "cell": 369,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedRuneUruz",
+   "type": 404,
+   "cell": 370,
+   "cat": "Magic"
+  },
+  {
+   "name": "KingsNose",
+   "type": 155,
+   "cell": 371,
+   "cat": "Misc"
+  },
+  {
+   "name": "GreenBookGroundstand",
+   "type": 116,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "Dragonfruit",
+   "type": 235,
+   "cell": 372,
+   "cat": "Food"
+  },
+  {
+   "name": "SpicyDish",
+   "type": 73,
+   "cell": 373,
+   "cat": "Misc"
+  },
+  {
+   "name": "ActivePleaEffigy",
+   "type": 555,
+   "cell": 374,
+   "cat": "Misc"
+  },
+  {
+   "name": "StoreOutfitChange",
+   "type": 301,
+   "cell": 375,
+   "cat": "Valuables"
+  },
+  {
+   "name": "WhiteChessKing",
+   "type": 431,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "PlatedShield",
+   "type": 150,
+   "cell": 376,
+   "cat": "Armor"
+  },
+  {
+   "name": "SlimeEssence",
+   "type": 21,
+   "cell": 377,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedBookWaterPillar",
+   "type": 152,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "BrassLegs",
+   "type": 146,
+   "cell": 378,
+   "cat": "Armor"
+  },
+  {
+   "name": "WoodenMug",
+   "type": 179,
+   "cell": 379,
+   "cat": "Valuables"
+  },
+  {
+   "name": "TowerShield",
+   "type": 147,
+   "cell": 380,
+   "cat": "Armor"
+  },
+  {
+   "name": "SteelBracelet",
+   "type": 278,
+   "cell": 381,
+   "cat": "Misc"
+  },
+  {
+   "name": "HouseChest 2",
+   "type": 310,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "CookStation",
+   "type": 328,
+   "cell": -1,
+   "cat": "Misc"
+  },
+  {
+   "name": "SnakeOrb",
+   "type": 354,
+   "cell": 382,
+   "cat": "Magic"
+  },
+  {
+   "name": "YellowRuneAlgiz",
+   "type": 385,
+   "cell": 383,
+   "cat": "Magic"
+  },
+  {
+   "name": "FurBoots",
+   "type": 503,
+   "cell": 384,
+   "cat": "Armor"
+  },
+  {
+   "name": "BigHealthPotion",
+   "type": 5,
+   "cell": 385,
+   "cat": "Potions"
+  },
+  {
+   "name": "WoodenCup",
+   "type": 26,
+   "cell": 386,
+   "cat": "Valuables"
+  },
+  {
+   "name": "BlueRuneLaguz",
+   "type": 374,
+   "cell": 387,
+   "cat": "Magic"
+  },
+  {
+   "name": "HouseDepot 2",
+   "type": 316,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "CheeseWheel",
+   "type": 142,
+   "cell": 388,
+   "cat": "Food"
+  },
+  {
+   "name": "NorthBigChest",
+   "type": 447,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "SteelIngot",
+   "type": 332,
+   "cell": 389,
+   "cat": "Valuables"
+  },
+  {
+   "name": "PondLeaf",
+   "type": 576,
+   "cell": 390,
+   "cat": "Misc"
+  },
+  {
+   "name": "PlainsSmallChest",
+   "type": 31,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "ActiveLightWand",
+   "type": 548,
+   "cell": 391,
+   "cat": "Weapons"
+  },
+  {
+   "name": "HouseBarrel",
+   "type": 282,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "FatBoy",
+   "type": 508,
+   "cell": 392,
+   "cat": "Misc"
+  },
+  {
+   "name": "StoreDepotSpace",
+   "type": 302,
+   "cell": 393,
+   "cat": "Containers"
+  },
+  {
+   "name": "BlueRuneRaido",
+   "type": 371,
+   "cell": 394,
+   "cat": "Magic"
+  },
+  {
+   "name": "RedBookSlow",
+   "type": 174,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "OnyxArmor",
+   "type": 228,
+   "cell": 395,
+   "cat": "Armor"
+  },
+  {
+   "name": "VelvetPouch",
+   "type": 215,
+   "cell": 396,
+   "cat": "Containers"
+  },
+  {
+   "name": "MirelingLegs",
+   "type": 523,
+   "cell": 397,
+   "cat": "Armor"
+  },
+  {
+   "name": "Blueberries",
+   "type": 234,
+   "cell": 398,
+   "cat": "Misc"
+  },
+  {
+   "name": "ActiveInvisibilityRing",
+   "type": 582,
+   "cell": 399,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "DarkHood",
+   "type": 141,
+   "cell": 400,
+   "cat": "Armor"
+  },
+  {
+   "name": "GreenRuneKenaz",
+   "type": 367,
+   "cell": 401,
+   "cat": "Magic"
+  },
+  {
+   "name": "WaterResistPotion",
+   "type": 486,
+   "cell": 402,
+   "cat": "Potions"
+  },
+  {
+   "name": "SkullRing",
+   "type": 127,
+   "cell": 403,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "GoldenRing",
+   "type": 47,
+   "cell": 404,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "SimpleGarment",
+   "type": 86,
+   "cell": 405,
+   "cat": "Misc"
+  },
+  {
+   "name": "SilverRing",
+   "type": 274,
+   "cell": 406,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "Dough",
+   "type": 181,
+   "cell": 407,
+   "cat": "Misc"
+  },
+  {
+   "name": "HouseAnvil 1",
+   "type": 335,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "PlatedCuirass",
+   "type": 40,
+   "cell": 408,
+   "cat": "Armor"
+  },
+  {
+   "name": "ActiveSilverWand",
+   "type": 544,
+   "cell": 409,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BlueBookWaterWave",
+   "type": 491,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "HouseDepot 3",
+   "type": 317,
+   "cell": 42,
+   "cat": "Containers"
+  },
+  {
+   "name": "PewterRing",
+   "type": 587,
+   "cell": 410,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "OnyxBoots",
+   "type": 230,
+   "cell": 411,
+   "cat": "Armor"
+  },
+  {
+   "name": "AmberRuneHagalaz",
+   "type": 416,
+   "cell": 412,
+   "cat": "Magic"
+  },
+  {
+   "name": "WebcapEye",
+   "type": 23,
+   "cell": 413,
+   "cat": "Armor"
+  },
+  {
+   "name": "OldLetter",
+   "type": 292,
+   "cell": 266,
+   "cat": "Misc"
+  },
+  {
+   "name": "TockWigPiece",
+   "type": 474,
+   "cell": 414,
+   "cat": "Food"
+  },
+  {
+   "name": "UnholyStaff",
+   "type": 132,
+   "cell": 415,
+   "cat": "Weapons"
+  },
+  {
+   "name": "RedBookEnergyBolt",
+   "type": 110,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "CrystalAmulet",
+   "type": 469,
+   "cell": 416,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "YellowRuneRaido",
+   "type": 379,
+   "cell": 417,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueRuneHagalaz",
+   "type": 376,
+   "cell": 418,
+   "cat": "Magic"
+  },
+  {
+   "name": "GameMeat",
+   "type": 456,
+   "cell": 419,
+   "cat": "Food"
+  },
+  {
+   "name": "SkalishRing",
+   "type": 505,
+   "cell": 420,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "SnowWoodbox",
+   "type": 574,
+   "cell": -1,
+   "cat": "Containers"
+  },
+  {
+   "name": "WoodenBowl",
+   "type": 25,
+   "cell": 421,
+   "cat": "Weapons"
+  },
+  {
+   "name": "Quill",
+   "type": 162,
+   "cell": 422,
+   "cat": "Misc"
+  },
+  {
+   "name": "BlueBookAdjure",
+   "type": 320,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "Sandworm",
+   "type": 345,
+   "cell": 423,
+   "cat": "Misc"
+  },
+  {
+   "name": "OnyxShield",
+   "type": 249,
+   "cell": 424,
+   "cat": "Armor"
+  },
+  {
+   "name": "OnyxDagger",
+   "type": 251,
+   "cell": 425,
+   "cat": "Weapons"
+  },
+  {
+   "name": "StoreStatReset",
+   "type": 305,
+   "cell": 426,
+   "cat": "Valuables"
+  },
+  {
+   "name": "RedBookEnergyHull",
+   "type": 135,
+   "cell": 8,
+   "cat": "Magic"
+  },
+  {
+   "name": "EmptyElixirPotion",
+   "type": 502,
+   "cell": 427,
+   "cat": "Potions"
+  },
+  {
+   "name": "DeerCharm",
+   "type": 476,
+   "cell": 428,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "SilverDagger",
+   "type": 97,
+   "cell": 429,
+   "cat": "Weapons"
+  },
+  {
+   "name": "MirelingHelmet",
+   "type": 521,
+   "cell": 430,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlackChessQueen",
+   "type": 438,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "PlatedHelmet",
+   "type": 50,
+   "cell": 431,
+   "cat": "Armor"
+  },
+  {
+   "name": "SimplebookBlue",
+   "type": 169,
+   "cell": 250,
+   "cat": "Magic"
+  },
+  {
+   "name": "Crossbow",
+   "type": 467,
+   "cell": 432,
+   "cat": "Weapons"
+  },
+  {
+   "name": "EmptyResistPotion",
+   "type": 487,
+   "cell": 433,
+   "cat": "Potions"
+  },
+  {
+   "name": "Nightshade",
+   "type": 157,
+   "cell": 434,
+   "cat": "Misc"
+  },
+  {
+   "name": "LineageShield",
+   "type": 58,
+   "cell": 435,
+   "cat": "Armor"
+  },
+  {
+   "name": "BlackChessBishop",
+   "type": 436,
+   "cell": 80,
+   "cat": "Furniture"
+  },
+  {
+   "name": "WhiteRuneUruz",
+   "type": 396,
+   "cell": 436,
+   "cat": "Magic"
+  },
+  {
+   "name": "AmberRuneAlgiz",
+   "type": 417,
+   "cell": 437,
+   "cat": "Magic"
+  },
+  {
+   "name": "OldGloves",
+   "type": 192,
+   "cell": 438,
+   "cat": "Armor"
+  },
+  {
+   "name": "MarriageRing",
+   "type": 207,
+   "cell": 439,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "CookedLamb",
+   "type": 128,
+   "cell": 440,
+   "cat": "Food"
+  },
+  {
+   "name": "PurpleRuneHagalaz",
+   "type": 424,
+   "cell": 441,
+   "cat": "Magic"
+  },
+  {
+   "name": "IronBoots",
+   "type": 530,
+   "cell": 442,
+   "cat": "Armor"
+  },
+  {
+   "name": "SpicyStew",
+   "type": 70,
+   "cell": 443,
+   "cat": "Food"
+  },
+  {
+   "name": "Steelsword",
+   "type": 123,
+   "cell": 444,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BigOldBook",
+   "type": 170,
+   "cell": 445,
+   "cat": "Magic"
+  },
+  {
+   "name": "Buckler",
+   "type": 90,
+   "cell": 446,
+   "cat": "Armor"
+  },
+  {
+   "name": "RaggedCloth",
+   "type": 95,
+   "cell": 447,
+   "cat": "Valuables"
+  },
+  {
+   "name": "AncientStick",
+   "type": 358,
+   "cell": 448,
+   "cat": "Misc"
+  },
+  {
+   "name": "SkalTooth",
+   "type": 586,
+   "cell": 449,
+   "cat": "Misc"
+  },
+  {
+   "name": "RedRuneAlgiz",
+   "type": 409,
+   "cell": 450,
+   "cat": "Magic"
+  },
+  {
+   "name": "Shovel",
+   "type": 260,
+   "cell": 451,
+   "cat": "Tools"
+  },
+  {
+   "name": "PumpkinPuree",
+   "type": 246,
+   "cell": 452,
+   "cat": "Misc"
+  },
+  {
+   "name": "GreenRuneAlgiz",
+   "type": 369,
+   "cell": 453,
+   "cat": "Magic"
+  },
+  {
+   "name": "HouseCounter",
+   "type": 275,
+   "cell": 42,
+   "cat": "Furniture"
+  },
+  {
+   "name": "TwistedWand",
+   "type": 540,
+   "cell": 454,
+   "cat": "Weapons"
+  },
+  {
+   "name": "BlueBookCleanse",
+   "type": 494,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "IronGloves",
+   "type": 525,
+   "cell": 455,
+   "cat": "Armor"
+  },
+  {
+   "name": "LightWand",
+   "type": 542,
+   "cell": 456,
+   "cat": "Weapons"
+  },
+  {
+   "name": "CheeseSlice",
+   "type": 100,
+   "cell": 457,
+   "cat": "Food"
+  },
+  {
+   "name": "Sandwich",
+   "type": 185,
+   "cell": 458,
+   "cat": "Food"
+  },
+  {
+   "name": "ZirconRing",
+   "type": 322,
+   "cell": 459,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "CrystalRing",
+   "type": 45,
+   "cell": 460,
+   "cat": "Jewelry"
+  },
+  {
+   "name": "ActiveOmenShard",
+   "type": 556,
+   "cell": 461,
+   "cat": "Misc"
+  },
+  {
+   "name": "MeatyStew",
+   "type": 130,
+   "cell": 462,
+   "cat": "Food"
+  },
+  {
+   "name": "GreenBookSummonNature",
+   "type": 489,
+   "cell": 193,
+   "cat": "Magic"
+  },
+  {
+   "name": "BlueBookHeal",
+   "type": 149,
+   "cell": 36,
+   "cat": "Magic"
+  },
+  {
+   "name": "Eggplant",
+   "type": 236,
+   "cell": 463,
+   "cat": "Food"
+  },
+  {
+   "name": "BugWings",
+   "type": 122,
+   "cell": 464,
+   "cat": "Misc"
+  },
+  {
+   "name": "RoyalArmor",
+   "type": 219,
+   "cell": 465,
+   "cat": "Armor"
+  },
+  {
+   "name": "FishSteak",
+   "type": 67,
+   "cell": 466,
+   "cat": "Food"
+  },
+  {
+   "name": "RedBreast",
+   "type": 14,
+   "cell": 467,
+   "cat": "Misc"
+  },
+  {
+   "name": "RoastedEggplant",
+   "type": 237,
+   "cell": 468,
+   "cat": "Food"
+  },
+  {
+   "name": "AMoldyKey",
+   "type": 900000,
+   "cell": 494,
+   "cat": "Keys",
+   "title": "A Moldy Key",
+   "desc_en": "Maybe opens a moldy door somewhere?",
+   "spriteConfirmed": true,
+   "title_pt": "Uma Chave Mofada",
+   "desc_pt": "Talvez abra uma porta mofada em algum lugar?",
+   "title_de": "Ein Schimmeliger Schlüssel",
+   "desc_de": "Öffnet vielleicht irgendwo eine schimmelige Tür?",
+   "title_es": "Una Llave Mohosa",
+   "desc_es": "¿Quizás abra una puerta mohosa en algún lugar?"
+  },
+  {
+   "name": "AmphitereKey",
+   "type": 900001,
+   "cell": 485,
+   "cat": "Keys",
+   "title": "Amphitere Key",
+   "desc_en": "Hidden in the amphitere mountain, you can guess it opens something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Amphitere",
+   "desc_pt": "Escondida na montanha dos amphiteres, você pode supor que abre algo nas proximidades.",
+   "title_de": "Amphitere-Schlüssel",
+   "desc_de": "Versteckt im Amphitere-Berg, kannst du erraten, dass er etwas in der Nähe öffnet.",
+   "title_es": "Llave de Amphitere",
+   "desc_es": "Oculta en la montaña de los amphiteres, puedes suponer que abre algo cercano."
+  },
+  {
+   "name": "AppleSewerKey",
+   "type": 900002,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Apple Sewer Key",
+   "desc_en": "Must open a door near the sewers of Basile.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Esgoto da Maçã",
+   "desc_pt": "Deve abrir uma porta perto dos esgotos de Basile.",
+   "title_de": "Apfelkanalschlüssel",
+   "desc_de": "Muss eine Tür in der Nähe der Kanalisation von Basile öffnen.",
+   "title_es": "Llave de la Alcantarilla de la Manzana",
+   "desc_es": "Debe abrir una puerta cerca de las alcantarillas de Basile."
+  },
+  {
+   "name": "ArrowSewerKey",
+   "type": 900003,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Arrow Sewer Key",
+   "desc_en": "Must open a door near the sewers of Basile.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Esgoto da Flecha",
+   "desc_pt": "Deve abrir uma porta perto dos esgotos de Basile.",
+   "title_de": "Pfeilkanalschlüssel",
+   "desc_de": "Muss eine Tür in der Nähe der Kanalisation von Basile öffnen.",
+   "title_es": "Llave de la Alcantarilla de la Flecha",
+   "desc_es": "Debe abrir una puerta cerca de las alcantarillas de Basile."
+  },
+  {
+   "name": "BaldwinsKey",
+   "type": 900004,
+   "cell": 490,
+   "cat": "Keys",
+   "title": "Baldwin's Key",
+   "desc_en": "Used to open the locked chest in the blacksmith's room.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Baldwin",
+   "desc_pt": "Usada para abrir o baú trancado no quarto do ferreiro.",
+   "title_de": "Baldwins Schlüssel",
+   "desc_de": "Wird verwendet, um die verschlossene Truhe im Raum des Schmieds zu öffnen.",
+   "title_es": "Llave de Baldwin",
+   "desc_es": "Se usa para abrir el cofre cerrado en la habitación del herrero."
+  },
+  {
+   "name": "BanditPortKey",
+   "type": 900005,
+   "cell": 486,
+   "cat": "Keys",
+   "title": "Bandit Port Key",
+   "desc_en": "Must open some door at the bandit port.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Porto dos Bandidos",
+   "desc_pt": "Deve abrir alguma porta no porto dos bandidos.",
+   "title_de": "Bandenhafenschlüssel",
+   "desc_de": "Muss irgendeine Tür am Bandenhafen öffnen.",
+   "title_es": "Llave del Puerto de Bandidos",
+   "desc_es": "Debe abrir alguna puerta en el puerto de bandidos."
+  },
+  {
+   "name": "BasilePrisonKey",
+   "type": 900006,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Basile Prison Key",
+   "desc_en": "It opens the door to its underground prison.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Prisão de Basile",
+   "desc_pt": "Abre a porta para sua prisão subterrânea.",
+   "title_de": "Basile-Gefängnisschlüssel",
+   "desc_de": "Öffnet die Tür zu seinem unterirdischen Gefängnis.",
+   "title_es": "Llave de la Prisión de Basile",
+   "desc_es": "Abre la puerta a su prisión subterránea."
+  },
+  {
+   "name": "BasileWallsKey",
+   "type": 900007,
+   "cell": 492,
+   "cat": "Keys",
+   "title": "Basile Walls Key",
+   "desc_en": "Must open some room nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave das Muralhas de Basile",
+   "desc_pt": "Deve abrir algum quarto nas proximidades.",
+   "title_de": "Basile-Mauern-Schlüssel",
+   "desc_de": "Muss irgendeinen Raum in der Nähe öffnen.",
+   "title_es": "Llave de las Murallas de Basile",
+   "desc_es": "Debe abrir alguna habitación cercana."
+  },
+  {
+   "name": "BlueMageKey",
+   "type": 900008,
+   "cell": 512,
+   "cat": "Keys",
+   "title": "Blue Mage Key",
+   "desc_en": "Opens things at the Blue Mage's house.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Mago Azul",
+   "desc_pt": "Abre coisas na casa do Mago Azul.",
+   "title_de": "Blaumagierschlüssel",
+   "desc_de": "Öffnet Dinge im Haus des Blaumagiers.",
+   "title_es": "Llave del Mago Azul",
+   "desc_es": "Abre cosas en la casa del Mago Azul."
+  },
+  {
+   "name": "BoilerKey",
+   "type": 900009,
+   "cell": 510,
+   "cat": "Keys",
+   "title": "Boiler Key",
+   "desc_en": "A label in the key says: Engin's Boiler Room",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Caldeira",
+   "desc_pt": "Uma etiqueta na chave diz: Sala da Caldeira de Engin",
+   "title_de": "Kesselschlüssel",
+   "desc_de": "Ein Etikett am Schlüssel sagt: Engins Kesselraum",
+   "title_es": "Llave de la Caldera",
+   "desc_es": "Una etiqueta en la llave dice: Sala de Calderas de Engin"
+  },
+  {
+   "name": "BranorsKey",
+   "type": 900010,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Branor's Key",
+   "desc_en": "You can open the chest in his room with this key.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Branor",
+   "desc_pt": "Você pode abrir o baú no quarto dele com esta chave.",
+   "title_de": "Branors Schlüssel",
+   "desc_de": "Du kannst die Truhe in seinem Raum mit diesem Schlüssel öffnen.",
+   "title_es": "Llave de Branor",
+   "desc_es": "Puedes abrir el cofre en su habitación con esta llave."
+  },
+  {
+   "name": "BresenhamsKey",
+   "type": 900011,
+   "cell": 497,
+   "cat": "Keys",
+   "title": "Bresenham's Key",
+   "desc_en": "He said it opens a door south of his tower.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Bresenham",
+   "desc_pt": "Ele disse que abre uma porta ao sul de sua torre.",
+   "title_de": "Bresenhams Schlüssel",
+   "desc_de": "Er sagte, er öffnet eine Tür südlich seines Turms.",
+   "title_es": "Llave de Bresenham",
+   "desc_es": "Dijo que abre una puerta al sur de su torre."
+  },
+  {
+   "name": "BrigitteKey",
+   "type": 900012,
+   "cell": 510,
+   "cat": "Keys",
+   "title": "Brigitte Key",
+   "desc_en": "Opens the rune school next to the floating castle.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Brigitte",
+   "desc_pt": "Abre a escola de runas ao lado do castelo flutuante.",
+   "title_de": "Brigitteschlüssel",
+   "desc_de": "Öffnet die Runenschule neben dem schwebenden Schloss.",
+   "title_es": "Llave de Brigitte",
+   "desc_es": "Abre la escuela de runas junto al castillo flotante."
+  },
+  {
+   "name": "CastleConstructionKey",
+   "type": 900013,
+   "cell": 490,
+   "cat": "Keys",
+   "title": "Castle Construction Key",
+   "desc_en": "It opens the door to the locked spider room.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Construção do Castelo",
+   "desc_pt": "Abre a porta da sala trancada de aranhas.",
+   "title_de": "Schlossbaustellenschlüssel",
+   "desc_de": "Öffnet die Tür zum verschlossenen Spinnenraum.",
+   "title_es": "Llave de Construcción del Castillo",
+   "desc_es": "Abre la puerta de la sala de arañas cerrada."
+  },
+  {
+   "name": "CaveTrollKey",
+   "type": 900014,
+   "cell": 490,
+   "cat": "Keys",
+   "title": "Cave Troll Key",
+   "desc_en": "Found east of the plains, in the cave troll cages.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Troll da Caverna",
+   "desc_pt": "Encontrada a leste das planícies, nas jaulas dos trolls da caverna.",
+   "title_de": "Höhlentrollschlüssel",
+   "desc_de": "Östlich der Ebenen in den Höhlentrollkäfigen gefunden.",
+   "title_es": "Llave del Trol de la Cueva",
+   "desc_es": "Encontrada al este de las llanuras, en las jaulas de los troles de la cueva."
+  },
+  {
+   "name": "ChessKey",
+   "type": 900015,
+   "cell": 493,
+   "cat": "Keys",
+   "title": "Chess Key",
+   "desc_en": "Opens the Chess Room in Sigurd's Pub",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Xadrez",
+   "desc_pt": "Abre a Sala de Xadrez no Pub de Sigurd",
+   "title_de": "Schachschlüssel",
+   "desc_de": "Öffnet den Schachraum in Sigurds Kneipe",
+   "title_es": "Llave de Ajedrez",
+   "desc_es": "Abre la Sala de Ajedrez en el Pub de Sigurd"
+  },
+  {
+   "name": "ChurchTowerKey",
+   "type": 900016,
+   "cell": 489,
+   "cat": "Keys",
+   "title": "Church Tower Key",
+   "desc_en": "Must open some door in the Nordha Church.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Torre da Igreja",
+   "desc_pt": "Deve abrir alguma porta na Igreja de Nordha.",
+   "title_de": "Kirchturmschlüssel",
+   "desc_de": "Muss irgendeine Tür in der Nordha-Kirche öffnen.",
+   "title_es": "Llave de la Torre de la Iglesia",
+   "desc_es": "Debe abrir alguna puerta en la Iglesia de Nordha."
+  },
+  {
+   "name": "CitadelQueensKey",
+   "type": 900017,
+   "cell": 520,
+   "cat": "Keys",
+   "title": "Citadel Queen's Key",
+   "desc_en": "Opens the Queen's room at the Citadel.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Rainha da Cidadela",
+   "desc_pt": "Abre o quarto da Rainha na Cidadela.",
+   "title_de": "Zitadellenköniginschlüssel",
+   "desc_de": "Öffnet das Zimmer der Königin in der Zitadelle.",
+   "title_es": "Llave de la Reina de la Ciudadela",
+   "desc_es": "Abre la habitación de la Reina en la Ciudadela."
+  },
+  {
+   "name": "CoveKey",
+   "type": 900018,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Cove Key",
+   "desc_en": "Opens a door under a grave in the plain's cemetery.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Enseada",
+   "desc_pt": "Abre uma porta sob uma sepultura no cemitério das planícies.",
+   "title_de": "Buchtschlüssel",
+   "desc_de": "Öffnet eine Tür unter einem Grab auf dem Friedhof der Ebene.",
+   "title_es": "Llave de la Ensenada",
+   "desc_es": "Abre una puerta bajo una tumba en el cementerio de las llanuras."
+  },
+  {
+   "name": "CrystalKey",
+   "type": 900019,
+   "cell": 502,
+   "cat": "Keys",
+   "title": "Crystal Key",
+   "desc_en": "It opens the crystal room next to the floating castle.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Cristal",
+   "desc_pt": "Abre a sala de cristal ao lado do castelo flutuante.",
+   "title_de": "Kristallschlüssel",
+   "desc_de": "Öffnet den Kristallraum neben dem schwebenden Schloss.",
+   "title_es": "Llave de Cristal",
+   "desc_es": "Abre la sala de cristal junto al castillo flotante."
+  },
+  {
+   "name": "DeadWorkerKey",
+   "type": 900020,
+   "cell": 483,
+   "cat": "Keys",
+   "title": "Dead Worker Key",
+   "desc_en": "The key must open some door near the canyon cave.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Trabalhador Morto",
+   "desc_pt": "A chave deve abrir alguma porta perto da caverna do cânion.",
+   "title_de": "Totarbeiterschlüssel",
+   "desc_de": "Der Schlüssel muss eine Tür in der Nähe der Schluchtenhöhle öffnen.",
+   "title_es": "Llave del Trabajador Muerto",
+   "desc_es": "La llave debe abrir alguna puerta cerca de la cueva del cañón."
+  },
+  {
+   "name": "DiggerElevatorKey",
+   "type": 900021,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Digger Elevator Key",
+   "desc_en": "Found in the digger cave north the plains, you can safely assume it works in a mine elevator there.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Elevador dos Escavadores",
+   "desc_pt": "Encontrada na caverna dos escavadores ao norte das planícies, você pode presumir que funciona no elevador da mina.",
+   "title_de": "Gräberaufzugschlüssel",
+   "desc_de": "In der Gräberhöhle nördlich der Ebenen gefunden, du kannst sicher annehmen, dass er in einem Minenaufzug dort funktioniert.",
+   "title_es": "Llave del Elevador de Excavadores",
+   "desc_es": "Encontrada en la cueva de excavadores al norte de las llanuras, puedes asumir que funciona en el elevador de la mina."
+  },
+  {
+   "name": "DrystansKey",
+   "type": 900022,
+   "cell": 493,
+   "cat": "Keys",
+   "title": "Drystan's Key",
+   "desc_en": "A token of appreciation from the Sentinel's Guild. It opens a chest on top of the tower.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Drystan",
+   "desc_pt": "Um símbolo de apreço da Guilda dos Sentinelas. Abre um baú no topo da torre.",
+   "title_de": "Drystans Schlüssel",
+   "desc_de": "Ein Zeichen der Wertschätzung von der Wächtergilde. Öffnet eine Truhe oben auf dem Turm.",
+   "title_es": "Llave de Drystan",
+   "desc_es": "Un símbolo de aprecio del Gremio de los Centinelas. Abre un cofre en la cima de la torre."
+  },
+  {
+   "name": "EastOccultistKey",
+   "type": 900023,
+   "cell": 482,
+   "cat": "Keys",
+   "title": "East Occultist Key",
+   "desc_en": "You can only assume it opens something around that area.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Ocultista do Leste",
+   "desc_pt": "Você só pode presumir que abre algo naquela área.",
+   "title_de": "Ost-Okkultistenschlüssel",
+   "desc_de": "Du kannst nur vermuten, dass er etwas in dieser Gegend öffnet.",
+   "title_es": "Llave Ocultista del Este",
+   "desc_es": "Solo puedes asumir que abre algo alrededor de esa área."
+  },
+  {
+   "name": "ElChadsKey",
+   "type": 900024,
+   "cell": 489,
+   "cat": "Keys",
+   "title": "El Chad's Key",
+   "desc_en": "It opens the outside door that leads to his room.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de El Chad",
+   "desc_pt": "Abre a porta externa que leva ao seu quarto.",
+   "title_de": "El Chads Schlüssel",
+   "desc_de": "Öffnet die Außentür, die zu seinem Raum führt.",
+   "title_es": "Llave de El Chad",
+   "desc_es": "Abre la puerta exterior que lleva a su habitación."
+  },
+  {
+   "name": "ElmosKey",
+   "type": 900025,
+   "cell": 493,
+   "cat": "Keys",
+   "title": "Elmo's Key",
+   "desc_en": "You have the impression it opens one of Amlon's chests.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Elmo",
+   "desc_pt": "Você tem a impressão de que abre um dos baús de Amlon.",
+   "title_de": "Elmos Schlüssel",
+   "desc_de": "Du hast den Eindruck, dass er eine von Amlons Truhen öffnet.",
+   "title_es": "Llave de Elmo",
+   "desc_es": "Tienes la impresión de que abre uno de los cofres de Amlon."
+  },
+  {
+   "name": "EvilCharmKey",
+   "type": 900026,
+   "cell": 481,
+   "cat": "Keys",
+   "title": "Evil Charm Key",
+   "desc_en": "Must open something inside of the evil church.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Amuleto Maligno",
+   "desc_pt": "Deve abrir algo dentro da igreja maligna.",
+   "title_de": "Böser-Zauber-Schlüssel",
+   "desc_de": "Muss etwas innerhalb der bösen Kirche öffnen.",
+   "title_es": "Llave del Amuleto Maligno",
+   "desc_es": "Debe abrir algo dentro de la iglesia maligna."
+  },
+  {
+   "name": "ForestKey",
+   "type": 900027,
+   "cell": 511,
+   "cat": "Keys",
+   "title": "Forest Key",
+   "desc_en": "The key has a label that says: Draughtwood backdoor.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Floresta",
+   "desc_pt": "A chave tem uma etiqueta que diz: Porta dos fundos de Draughtwood.",
+   "title_de": "Waldschlüssel",
+   "desc_de": "Der Schlüssel hat ein Etikett mit der Aufschrift: Draughtwood Hintertür.",
+   "title_es": "Llave del Bosque",
+   "desc_es": "La llave tiene una etiqueta que dice: Puerta trasera de Draughtwood."
+  },
+  {
+   "name": "ForgeKey",
+   "type": 900028,
+   "cell": 495,
+   "cat": "Keys",
+   "title": "Forge Key",
+   "desc_en": "Opens the Forge Room in Baldwin's smithy",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Forja",
+   "desc_pt": "Abre a Sala da Forja na ferraria de Baldwin",
+   "title_de": "Schmiedeschlüssel",
+   "desc_de": "Öffnet den Schmiedesaal in Baldwins Schmiede",
+   "title_es": "Llave de la Fragua",
+   "desc_es": "Abre la Sala de la Fragua en la herrería de Baldwin"
+  },
+  {
+   "name": "GeorgesKey",
+   "type": 900029,
+   "cell": 492,
+   "cat": "Keys",
+   "title": "George's Key",
+   "desc_en": "The drunkard willingly gave it to you. He said it opens a door in the sewers.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de George",
+   "desc_pt": "O bêbado lhe deu de bom grado. Ele disse que abre uma porta nos esgotos.",
+   "title_de": "Georges Schlüssel",
+   "desc_de": "Der Betrunkene gab ihn dir bereitwillig. Er sagte, er öffnet eine Tür in der Kanalisation.",
+   "title_es": "Llave de George",
+   "desc_es": "El borracho te la dio de buena gana. Dijo que abre una puerta en las alcantarillas."
+  },
+  {
+   "name": "GhostCaveKey",
+   "type": 900030,
+   "cell": 494,
+   "cat": "Keys",
+   "title": "Ghost Cave Key",
+   "desc_en": "Must open something in the Ghost Town's cave.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Caverna Fantasma",
+   "desc_pt": "Deve abrir algo na caverna da Cidade Fantasma.",
+   "title_de": "Geisterhöhlenschlüssel",
+   "desc_de": "Muss etwas in der Höhle der Geisterstadt öffnen.",
+   "title_es": "Llave de la Cueva Fantasma",
+   "desc_es": "Debe abrir algo en la cueva del Pueblo Fantasma."
+  },
+  {
+   "name": "GhostKey",
+   "type": 900031,
+   "cell": 486,
+   "cat": "Keys",
+   "title": "Ghost Key",
+   "desc_en": "Must open some old door.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Fantasma",
+   "desc_pt": "Deve abrir alguma porta antiga.",
+   "title_de": "Geisterschlüssel",
+   "desc_de": "Muss irgendeine alte Tür öffnen.",
+   "title_es": "Llave Fantasma",
+   "desc_es": "Debe abrir alguna puerta antigua."
+  },
+  {
+   "name": "GhostShipKey",
+   "type": 900032,
+   "cell": 495,
+   "cat": "Keys",
+   "title": "Ghost Ship Key",
+   "desc_en": "Must open something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Navio Fantasma",
+   "desc_pt": "Deve abrir algo próximo.",
+   "title_de": "Geisterschiffschlüssel",
+   "desc_de": "Muss etwas in der Nähe öffnen.",
+   "title_es": "Llave del Barco Fantasma",
+   "desc_es": "Debe abrir algo cercano."
+  },
+  {
+   "name": "GhostTowerKey",
+   "type": 900033,
+   "cell": 482,
+   "cat": "Keys",
+   "title": "Ghost Tower Key",
+   "desc_en": "Must open some door in the Ghost Town.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Torre Fantasma",
+   "desc_pt": "Deve abrir alguma porta na Cidade Fantasma.",
+   "title_de": "Geisterturmschlüssel",
+   "desc_de": "Muss irgendeine Tür in der Geisterstadt öffnen.",
+   "title_es": "Llave de la Torre Fantasma",
+   "desc_es": "Debe abrir alguna puerta en el Pueblo Fantasma."
+  },
+  {
+   "name": "GoldenMazeKey",
+   "type": 900034,
+   "cell": 517,
+   "cat": "Keys",
+   "title": "Golden Maze Key",
+   "desc_en": "Found after solving the desert maze. Must open something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Ouro do Labirinto",
+   "desc_pt": "Encontrada após resolver o labirinto do deserto. Deve abrir algo próximo.",
+   "title_de": "Goldlabyrinthschlüssel",
+   "desc_de": "Gefunden nach Lösung des Wüstenlabyrinths. Muss etwas in der Nähe öffnen.",
+   "title_es": "Llave de Oro del Laberinto",
+   "desc_es": "Encontrada tras resolver el laberinto del desierto. Debe abrir algo cercano."
+  },
+  {
+   "name": "HildegardsKey",
+   "type": 900035,
+   "cell": 481,
+   "cat": "Keys",
+   "title": "Hildegard's Key",
+   "desc_en": "He said it opens an abandoned house to the west of Basile.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Hildegard",
+   "desc_pt": "Ele disse que abre uma casa abandonada a oeste de Basile.",
+   "title_de": "Hildegards Schlüssel",
+   "desc_de": "Er sagte, er öffnet ein verlassenes Haus westlich von Basile.",
+   "title_es": "Llave de Hildegard",
+   "desc_es": "Dijo que abre una casa abandonada al oeste de Basile."
+  },
+  {
+   "name": "JebidiahsKey",
+   "type": 900036,
+   "cell": 480,
+   "cat": "Keys",
+   "title": "Jebidiah's Key",
+   "desc_en": "He gave it to you to retrieve his lost chests that are scattered in the swamp.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Jebidiah",
+   "desc_pt": "Ele lhe deu para recuperar seus baús perdidos que estão espalhados no pântano.",
+   "title_de": "Jebidiahs Schlüssel",
+   "desc_de": "Er gab ihn dir, um seine verlorenen Truhen zu bergen, die im Sumpf verstreut sind.",
+   "title_es": "Llave de Jebidiah",
+   "desc_es": "Te la dio para recuperar sus cofres perdidos que están esparcidos en el pantano."
+  },
+  {
+   "name": "KarisKey",
+   "type": 900037,
+   "cell": 492,
+   "cat": "Keys",
+   "title": "Kari's Key",
+   "desc_en": "Opens a small chest in Reika's bedroom.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Kari",
+   "desc_pt": "Abre um baú pequeno no quarto de Reika.",
+   "title_de": "Karis Schlüssel",
+   "desc_de": "Öffnet eine kleine Truhe in Reikas Schlafzimmer.",
+   "title_es": "Llave de Kari",
+   "desc_es": "Abre un cofre pequeño en el dormitorio de Reika."
+  },
+  {
+   "name": "LabyrinthKey",
+   "type": 900038,
+   "cell": 487,
+   "cat": "Keys",
+   "title": "Labyrinth Key",
+   "desc_en": "Must open some door in the Nordha Church.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Labirinto",
+   "desc_pt": "Deve abrir alguma porta na Igreja de Nordha.",
+   "title_de": "Labyrinthschlüssel",
+   "desc_de": "Muss irgendeine Tür in der Nordha-Kirche öffnen.",
+   "title_es": "Llave del Laberinto",
+   "desc_es": "Debe abrir alguna puerta en la Iglesia de Nordha."
+  },
+  {
+   "name": "LeofricsKey",
+   "type": 900039,
+   "cell": 481,
+   "cat": "Keys",
+   "title": "Leofric's Key",
+   "desc_en": "Given to you as part of a quest to retrieve his forgotten lunch.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Leofric",
+   "desc_pt": "Dada a você como parte de uma missão para recuperar seu almoço esquecido.",
+   "title_de": "Leofrics Schlüssel",
+   "desc_de": "Wurde dir als Teil einer Quest gegeben, um sein vergessenes Mittagessen zu holen.",
+   "title_es": "Llave de Leofric",
+   "desc_es": "Te la dieron como parte de una misión para recuperar su almuerzo olvidado."
+  },
+  {
+   "name": "ManorSewerKey",
+   "type": 900040,
+   "cell": 492,
+   "cat": "Keys",
+   "title": "Manor Sewer Key",
+   "desc_en": "It was found in the sewer abandoned house, it must activate something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Esgoto da Mansão",
+   "desc_pt": "Foi encontrada na casa abandonada do esgoto, deve ativar algo por perto.",
+   "title_de": "Herrenhauskanalschlüssel",
+   "desc_de": "Wurde im verlassenen Haus der Kanalisation gefunden, muss etwas in der Nähe aktivieren.",
+   "title_es": "Llave de la Alcantarilla de la Mansión",
+   "desc_es": "Fue encontrada en la casa abandonada de la alcantarilla, debe activar algo cerca."
+  },
+  {
+   "name": "MausoleumCandleKey",
+   "type": 900041,
+   "cell": 496,
+   "cat": "Keys",
+   "title": "Mausoleum Candle Key",
+   "desc_en": "Found in an old chest, must open the only locked door down there.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Vela do Mausoléu",
+   "desc_pt": "Encontrada em um baú antigo, deve abrir a única porta trancada lá embaixo.",
+   "title_de": "Mausoleumkerzenschlüssel",
+   "desc_de": "In einer alten Truhe gefunden, muss die einzige verschlossene Tür dort unten öffnen.",
+   "title_es": "Llave de la Vela del Mausoleo",
+   "desc_es": "Encontrada en un cofre viejo, debe abrir la única puerta cerrada allí abajo."
+  },
+  {
+   "name": "MausoleumKey",
+   "type": 900042,
+   "cell": 483,
+   "cat": "Keys",
+   "title": "Mausoleum Key",
+   "desc_en": "It was found deep in the Mausoleum.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Mausoléu",
+   "desc_pt": "Foi encontrada nas profundezas do Mausoléu.",
+   "title_de": "Mausoleumschlüssel",
+   "desc_de": "Er wurde tief im Mausoleum gefunden.",
+   "title_es": "Llave del Mausoleo",
+   "desc_es": "Fue encontrada en las profundidades del Mausoleo."
+  },
+  {
+   "name": "MonasteryCaveKey",
+   "type": 900043,
+   "cell": 490,
+   "cat": "Keys",
+   "title": "Monastery Cave Key",
+   "desc_en": "A key made for elevators. Must work with something inside the cave.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Caverna do Mosteiro",
+   "desc_pt": "Uma chave feita para elevadores. Deve funcionar com algo dentro da caverna.",
+   "title_de": "Klosterhöhlenschlüssel",
+   "desc_de": "Ein Schlüssel für Aufzüge. Muss mit etwas in der Höhle funktionieren.",
+   "title_es": "Llave de la Cueva del Monasterio",
+   "desc_es": "Una llave hecha para elevadores. Debe funcionar con algo dentro de la cueva."
+  },
+  {
+   "name": "MonasteryKey",
+   "type": 900044,
+   "cell": 496,
+   "cat": "Keys",
+   "title": "Monastery Key",
+   "desc_en": "Appears to be very old.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Monastério",
+   "desc_pt": "Parece ser muito antiga.",
+   "title_de": "Klosterschlüssel",
+   "desc_de": "Scheint sehr alt zu sein.",
+   "title_es": "Llave del Monasterio",
+   "desc_es": "Parece ser muy antigua."
+  },
+  {
+   "name": "MorrigansKey",
+   "type": 900045,
+   "cell": 491,
+   "cat": "Keys",
+   "title": "Morrigan's Key",
+   "desc_en": "Must open some door in Nordha.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Morrigan",
+   "desc_pt": "Deve abrir alguma porta em Nordha.",
+   "title_de": "Morrigans Schlüssel",
+   "desc_de": "Muss irgendeine Tür in Nordha öffnen.",
+   "title_es": "Llave de Morrigan",
+   "desc_es": "Debe abrir alguna puerta en Nordha."
+  },
+  {
+   "name": "NordhaMinesKey",
+   "type": 900046,
+   "cell": 486,
+   "cat": "Keys",
+   "title": "Nordha Mines Key",
+   "desc_en": "Must open something in the Nordha Mines.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave das Minas de Nordha",
+   "desc_pt": "Deve abrir algo nas Minas de Nordha.",
+   "title_de": "Nordha-Minenschlüssel",
+   "desc_de": "Muss etwas in den Nordha-Minen öffnen.",
+   "title_es": "Llave de las Minas de Nordha",
+   "desc_es": "Debe abrir algo en las Minas de Nordha."
+  },
+  {
+   "name": "NorthTempleKey",
+   "type": 900047,
+   "cell": 506,
+   "cat": "Keys",
+   "title": "North Temple Key",
+   "desc_en": "It strangely doesn't open anything in the north temple.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Templo Norte",
+   "desc_pt": "Estranhamente não abre nada no templo norte.",
+   "title_de": "Nordtempelschlüssel",
+   "desc_de": "Seltsamerweise öffnet er nichts im Nordtempel.",
+   "title_es": "Llave del Templo Norte",
+   "desc_es": "Extrañamente no abre nada en el templo norte."
+  },
+  {
+   "name": "OccultPortKey",
+   "type": 900048,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Occult Port Key",
+   "desc_en": "Opens most doors at the Bandit Port.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Porto Oculto",
+   "desc_pt": "Abre a maioria das portas no Porto dos Bandidos.",
+   "title_de": "Okkulter Hafenschlüssel",
+   "desc_de": "Öffnet die meisten Türen im Banditenhafen.",
+   "title_es": "Llave del Puerto Oculto",
+   "desc_es": "Abre la mayoría de las puertas en el Puerto de los Bandidos."
+  },
+  {
+   "name": "OccultistKey",
+   "type": 900049,
+   "cell": 484,
+   "cat": "Keys",
+   "title": "Occultist Key",
+   "desc_en": "It is a key of the occultists and you have a feeling its important.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Ocultista",
+   "desc_pt": "É uma chave dos ocultistas e você tem a sensação de que é importante.",
+   "title_de": "Okkultistenschlüssel",
+   "desc_de": "Es ist ein Schlüssel der Okkultisten und du hast das Gefühl, dass er wichtig ist.",
+   "title_es": "Llave Ocultista",
+   "desc_es": "Es una llave de los ocultistas y tienes la sensación de que es importante."
+  },
+  {
+   "name": "OldAmuletKey",
+   "type": 900050,
+   "cell": 508,
+   "cat": "Keys",
+   "title": "Old Amulet Key",
+   "desc_en": "Must open something in Draughtwood.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Amuleto Antigo",
+   "desc_pt": "Deve abrir algo em Draughtwood.",
+   "title_de": "Alter Amulettschlüssel",
+   "desc_de": "Muss etwas in Draughtwood öffnen.",
+   "title_es": "Llave del Amuleto Antiguo",
+   "desc_es": "Debe abrir algo en Draughtwood."
+  },
+  {
+   "name": "OrcCampKey",
+   "type": 900051,
+   "cell": 486,
+   "cat": "Keys",
+   "title": "Orc Camp Key",
+   "desc_en": "It must open something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Acampamento Orc",
+   "desc_pt": "Deve abrir algo por perto.",
+   "title_de": "Orklагerschlüssel",
+   "desc_de": "Muss etwas in der Nähe öffnen.",
+   "title_es": "Llave del Campamento Orco",
+   "desc_es": "Debe abrir algo cerca."
+  },
+  {
+   "name": "OutlawKey",
+   "type": 900052,
+   "cell": 486,
+   "cat": "Keys",
+   "title": "Outlaw Key",
+   "desc_en": "Must open something nearby the outlaws in Nordha.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave dos Fora da Lei",
+   "desc_pt": "Deve abrir algo próximo aos fora da lei em Nordha.",
+   "title_de": "Gesetzlosenschlüssel",
+   "desc_de": "Muss etwas in der Nähe der Gesetzlosen in Nordha öffnen.",
+   "title_es": "Llave de los Forajidos",
+   "desc_es": "Debe abrir algo cerca de los forajidos en Nordha."
+  },
+  {
+   "name": "OutlawsKey",
+   "type": 900053,
+   "cell": 491,
+   "cat": "Keys",
+   "title": "Outlaw's Key",
+   "desc_en": "It opens the secret market's door under the caravan.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Fora da Lei",
+   "desc_pt": "Abre a porta do mercado secreto sob a caravana.",
+   "title_de": "Gesetzlosenschlüssel",
+   "desc_de": "Öffnet die Tür zum geheimen Markt unter der Karawane.",
+   "title_es": "Llave del Forajido",
+   "desc_es": "Abre la puerta del mercado secreto bajo la caravana."
+  },
+  {
+   "name": "PerlinsKey",
+   "type": 900054,
+   "cell": 498,
+   "cat": "Keys",
+   "title": "Perlin's Key",
+   "desc_en": "According to him, opens a room with a portal.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Perlin",
+   "desc_pt": "Segundo ele, abre um quarto com um portal.",
+   "title_de": "Perlins Schlüssel",
+   "desc_de": "Laut ihm öffnet er einen Raum mit einem Portal.",
+   "title_es": "Llave de Perlin",
+   "desc_es": "Según él, abre una habitación con un portal."
+  },
+  {
+   "name": "PestilenceElevatorKey",
+   "type": 900055,
+   "cell": 501,
+   "cat": "Keys",
+   "title": "Pestilence Elevator Key",
+   "desc_en": "It was found in the Pestilence Tower.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Elevador de Pestilence",
+   "desc_pt": "Foi encontrada na Torre de Pestilence.",
+   "title_de": "Pestilence-Aufzugschlüssel",
+   "desc_de": "Wurde im Pestilence-Turm gefunden.",
+   "title_es": "Llave del Elevador de Pestilence",
+   "desc_es": "Fue encontrada en la Torre de Pestilence."
+  },
+  {
+   "name": "PirateKey",
+   "type": 900056,
+   "cell": 505,
+   "cat": "Keys",
+   "title": "Pirate Key",
+   "desc_en": "Most open something in the pirate boat.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Pirata",
+   "desc_pt": "Deve abrir algo no barco pirata.",
+   "title_de": "Piratenschlüssel",
+   "desc_de": "Muss etwas im Piratenschiff öffnen.",
+   "title_es": "Llave Pirata",
+   "desc_es": "Debe abrir algo en el barco pirata."
+  },
+  {
+   "name": "ReikasKey",
+   "type": 900057,
+   "cell": 489,
+   "cat": "Keys",
+   "title": "Reika's Key",
+   "desc_en": "Opens a big chest in Reika's bedroom.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Reika",
+   "desc_pt": "Abre um baú grande no quarto de Reika.",
+   "title_de": "Reikas Schlüssel",
+   "desc_de": "Öffnet eine große Truhe in Reikas Schlafzimmer.",
+   "title_es": "Llave de Reika",
+   "desc_es": "Abre un cofre grande en el dormitorio de Reika."
+  },
+  {
+   "name": "RepellentKey",
+   "type": 900058,
+   "cell": 483,
+   "cat": "Keys",
+   "title": "Repellent Key",
+   "desc_en": "Opens a chest in the sewers of Basile, not sure where.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Repelente",
+   "desc_pt": "Abre um baú nos esgotos de Basile, não sabe onde.",
+   "title_de": "Abwehrschlüssel",
+   "desc_de": "Öffnet eine Truhe in der Kanalisation von Basile, nicht sicher wo.",
+   "title_es": "Llave Repelente",
+   "desc_es": "Abre un cofre en las alcantarillas de Basile, no estás seguro dónde."
+  },
+  {
+   "name": "RoselRatKey",
+   "type": 900059,
+   "cell": 495,
+   "cat": "Keys",
+   "title": "Rosel Rat Key",
+   "desc_en": "Must open some chest in East Nordha.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Rato Rosel",
+   "desc_pt": "Deve abrir algum baú no Leste de Nordha.",
+   "title_de": "Rosel-Ratten-Schlüssel",
+   "desc_de": "Muss irgendeine Truhe in Ost-Nordha öffnen.",
+   "title_es": "Llave de la Rata Rosel",
+   "desc_es": "Debe abrir algún cofre en el Este de Nordha."
+  },
+  {
+   "name": "RottenKey",
+   "type": 900060,
+   "cell": 516,
+   "cat": "Keys",
+   "title": "Rotten Key",
+   "desc_en": "Found in the rotten caves, you're not sure what it opens.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Podre",
+   "desc_pt": "Encontrada nas cavernas podres, você não tem certeza do que ela abre.",
+   "title_de": "Verfaulter Schlüssel",
+   "desc_de": "In den verfaulten Höhlen gefunden, du bist dir nicht sicher, was er öffnet.",
+   "title_es": "Llave Podrida",
+   "desc_es": "Encontrada en las cuevas podridas, no estás seguro de qué abre."
+  },
+  {
+   "name": "SentinelPrisonKey",
+   "type": 900061,
+   "cell": 489,
+   "cat": "Keys",
+   "title": "Sentinel Prison Key",
+   "desc_en": "Gareth gave you this after freeing you from prison.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Prisão dos Sentinelas",
+   "desc_pt": "Gareth lhe deu isto depois de libertá-lo da prisão.",
+   "title_de": "Wächter-Gefängnisschlüssel",
+   "desc_de": "Gareth gab dir dies, nachdem er dich aus dem Gefängnis befreit hatte.",
+   "title_es": "Llave de la Prisión de los Centinelas",
+   "desc_es": "Gareth te dio esto después de liberarte de la prisión."
+  },
+  {
+   "name": "SeraphinasKey",
+   "type": 900062,
+   "cell": 489,
+   "cat": "Keys",
+   "title": "Seraphina's Key",
+   "desc_en": "She told you its used to open a hidden chest somewhere in Basile.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Seraphina",
+   "desc_pt": "Ela lhe disse que é usada para abrir um baú escondido em algum lugar de Basile.",
+   "title_de": "Seraphinas Schlüssel",
+   "desc_de": "Sie sagte dir, er wird verwendet, um eine versteckte Truhe irgendwo in Basile zu öffnen.",
+   "title_es": "Llave de Seraphina",
+   "desc_es": "Te dijo que se usa para abrir un cofre oculto en algún lugar de Basile."
+  },
+  {
+   "name": "SerildasKey",
+   "type": 900063,
+   "cell": 500,
+   "cat": "Keys",
+   "title": "Serilda's Key",
+   "desc_en": "The old key must open something deep.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Serilda",
+   "desc_pt": "A chave antiga deve abrir algo nas profundezas.",
+   "title_de": "Serildas Schlüssel",
+   "desc_de": "Der alte Schlüssel muss etwas in der Tiefe öffnen.",
+   "title_es": "Llave de Serilda",
+   "desc_es": "La llave antigua debe abrir algo en las profundidades."
+  },
+  {
+   "name": "SilverMazeKey",
+   "type": 900064,
+   "cell": 480,
+   "cat": "Keys",
+   "title": "Silver Maze Key",
+   "spriteConfirmed": false,
+   "title_pt": "Chave de Prata do Labirinto",
+   "desc_pt": "Encontrada durante o labirinto do deserto, deve abrir algo lá dentro.",
+   "title_de": "Silberlabyrinthschlüssel",
+   "desc_de": "Im Wüstenlabyrinth gefunden, muss dort etwas öffnen.",
+   "title_es": "Llave de Plata del Laberinto",
+   "desc_es": "Encontrada durante el laberinto del desierto, debe abrir algo allí dentro."
+  },
+  {
+   "name": "SlimeKey",
+   "type": 900065,
+   "cell": 483,
+   "cat": "Keys",
+   "title": "Slime Key",
+   "desc_en": "You have a feeling it opens something slime related.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Gosma",
+   "desc_pt": "Você tem a sensação de que abre algo relacionado a gosma.",
+   "title_de": "Schleimschlüssel",
+   "desc_de": "Du hast das Gefühl, dass er etwas Schleimbezogenes öffnet.",
+   "title_es": "Llave de Limo",
+   "desc_es": "Tienes la sensación de que abre algo relacionado con limo."
+  },
+  {
+   "name": "SouthTempleKey",
+   "type": 900066,
+   "cell": 506,
+   "cat": "Keys",
+   "title": "South Temple Key",
+   "desc_en": "It strangely doesn't open anything in the south temple.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Templo Sul",
+   "desc_pt": "Estranhamente não abre nada no templo sul.",
+   "title_de": "Südtempelschlüssel",
+   "desc_de": "Seltsamerweise öffnet er nichts im Südtempel.",
+   "title_es": "Llave del Templo Sur",
+   "desc_es": "Extrañamente no abre nada en el templo sur."
+  },
+  {
+   "name": "SpiderBonesKey",
+   "type": 900067,
+   "cell": 519,
+   "cat": "Keys",
+   "title": "Spider Bones Key",
+   "desc_en": "Found deep in Draughtwood, must open something in there.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave dos Ossos de Aranha",
+   "desc_pt": "Encontrada nas profundezas de Draughtwood, deve abrir algo lá dentro.",
+   "title_de": "Spinnenknochenschlüssel",
+   "desc_de": "Tief in Draughtwood gefunden, muss dort etwas öffnen.",
+   "title_es": "Llave de Huesos de Araña",
+   "desc_es": "Encontrada en lo profundo de Draughtwood, debe abrir algo allí dentro."
+  },
+  {
+   "name": "SpiderIngotKey",
+   "type": 900068,
+   "cell": 488,
+   "cat": "Keys",
+   "title": "Spider Ingot Key",
+   "desc_en": "Must open a door in the spider lair somewhere.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Lingote da Aranha",
+   "desc_pt": "Deve abrir uma porta no covil das aranhas em algum lugar.",
+   "title_de": "Spinnenbarrenschlüssel",
+   "desc_de": "Muss irgendwo eine Tür im Spinnenlager öffnen.",
+   "title_es": "Llave del Lingote de la Araña",
+   "desc_es": "Debe abrir una puerta en la guarida de las arañas en algún lugar."
+  },
+  {
+   "name": "SpiderLairKey",
+   "type": 900069,
+   "cell": 480,
+   "cat": "Keys",
+   "title": "Spider Lair Key",
+   "desc_en": "It must open a door somewhere in there.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Covil da Aranha",
+   "desc_pt": "Deve abrir uma porta em algum lugar lá dentro.",
+   "title_de": "Spinnenhöhlenschlüssel",
+   "desc_de": "Muss irgendwo dort drinnen eine Tür öffnen.",
+   "title_es": "Llave de la Guarida de la Araña",
+   "desc_es": "Debe abrir una puerta en algún lugar allí dentro."
+  },
+  {
+   "name": "StrangeKeyOne",
+   "type": 900070,
+   "cell": 514,
+   "cat": "Keys",
+   "title": "Strange Key One",
+   "desc_en": "The label on the key says: \"One\".",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Estranha Um",
+   "desc_pt": "A etiqueta na chave diz: \"Um\".",
+   "title_de": "Seltsamer Schlüssel Eins",
+   "desc_de": "Das Etikett auf dem Schlüssel sagt: \"Eins\".",
+   "title_es": "Llave Extraña Uno",
+   "desc_es": "La etiqueta de la llave dice: \"Uno\"."
+  },
+  {
+   "name": "StrangeKeyTwo",
+   "type": 900071,
+   "cell": 515,
+   "cat": "Keys",
+   "title": "Strange Key Two",
+   "desc_en": "The label on the key says: \"Two\".",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Estranha Dois",
+   "desc_pt": "A etiqueta na chave diz: \"Dois\".",
+   "title_de": "Seltsamer Schlüssel Zwei",
+   "desc_de": "Das Etikett auf dem Schlüssel sagt: \"Zwei\".",
+   "title_es": "Llave Extraña Dos",
+   "desc_es": "La etiqueta de la llave dice: \"Dos\"."
+  },
+  {
+   "name": "TheBotanistsKey",
+   "type": 900072,
+   "cell": 499,
+   "cat": "Keys",
+   "title": "The Botanist's Key",
+   "desc_en": "It opens their storage room where you can deposit items.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Botânico",
+   "desc_pt": "Abre o depósito onde você pode guardar itens.",
+   "title_de": "Botanikerschlüssel",
+   "desc_de": "Öffnet den Lagerraum, wo du Gegenstände hinterlegen kannst.",
+   "title_es": "Llave del Botánico",
+   "desc_es": "Abre su almacén donde puedes depositar objetos."
+  },
+  {
+   "name": "TombBanditKey",
+   "type": 900073,
+   "cell": 492,
+   "cat": "Keys",
+   "title": "Tomb Bandit Key",
+   "desc_en": "Must open a door in the ancient tomb.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Bandido da Tumba",
+   "desc_pt": "Deve abrir uma porta na tumba antiga.",
+   "title_de": "Grabräuberschlüssel",
+   "desc_de": "Muss eine Tür im alten Grab öffnen.",
+   "title_es": "Llave del Bandido de la Tumba",
+   "desc_es": "Debe abrir una puerta en la tumba antigua."
+  },
+  {
+   "name": "TrashKey",
+   "type": 900074,
+   "cell": 507,
+   "cat": "Keys",
+   "title": "Trash Key",
+   "desc_en": "The label on the key says: Trash door.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Lixo",
+   "desc_pt": "A etiqueta na chave diz: Porta do lixo.",
+   "title_de": "Müllschlüssel",
+   "desc_de": "Das Etikett auf dem Schlüssel sagt: Mülltür.",
+   "title_es": "Llave de la Basura",
+   "desc_es": "La etiqueta de la llave dice: Puerta de la basura."
+  },
+  {
+   "name": "VecanOldKey",
+   "type": 900075,
+   "cell": 494,
+   "cat": "Keys",
+   "title": "Vecan Old Key",
+   "desc_en": "Found in a suspicious room in Vecan, must open something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave Antiga de Vecan",
+   "desc_pt": "Encontrada em uma sala suspeita em Vecan, deve abrir algo por perto.",
+   "title_de": "Alter Vecan-Schlüssel",
+   "desc_de": "In einem verdächtigen Raum in Vecan gefunden, muss etwas in der Nähe öffnen.",
+   "title_es": "Llave Antigua de Vecan",
+   "desc_es": "Encontrada en una habitación sospechosa en Vecan, debe abrir algo cerca."
+  },
+  {
+   "name": "VecanWallKey",
+   "type": 900076,
+   "cell": 491,
+   "cat": "Keys",
+   "title": "Vecan Wall Key",
+   "desc_en": "Found in the walls of Vecan, must open something nearby.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Muralha de Vecan",
+   "desc_pt": "Encontrada nas muralhas de Vecan, deve abrir algo por perto.",
+   "title_de": "Vecan-Mauerschlüssel",
+   "desc_de": "In den Mauern von Vecan gefunden, muss etwas in der Nähe öffnen.",
+   "title_es": "Llave de la Muralla de Vecan",
+   "desc_es": "Encontrada en las murallas de Vecan, debe abrir algo cerca."
+  },
+  {
+   "name": "VioletsKey",
+   "type": 900077,
+   "cell": 491,
+   "cat": "Keys",
+   "title": "Violet's Key",
+   "desc_en": "She gave you this key to open a chest nearby, containing a reward for your deeds.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Violet",
+   "desc_pt": "Ela lhe deu esta chave para abrir um baú nas proximidades, contendo uma recompensa por seus feitos.",
+   "title_de": "Violets Schlüssel",
+   "desc_de": "Sie gab dir diesen Schlüssel, um eine Truhe in der Nähe zu öffnen, die eine Belohnung für deine Taten enthält.",
+   "title_es": "Llave de Violet",
+   "desc_es": "Te dio esta llave para abrir un cofre cercano, que contiene una recompensa por tus hazañas."
+  },
+  {
+   "name": "WizardTowerKey",
+   "type": 900078,
+   "cell": 497,
+   "cat": "Keys",
+   "title": "Wizard Tower Key",
+   "desc_en": "Must open some important chest.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave da Torre do Mago",
+   "desc_pt": "Deve abrir algum baú importante.",
+   "title_de": "Magierturmschlüssel",
+   "desc_de": "Muss irgendeine wichtige Truhe öffnen.",
+   "title_es": "Llave de la Torre del Mago",
+   "desc_es": "Debe abrir algún cofre importante."
+  },
+  {
+   "name": "YordinsKey",
+   "type": 900079,
+   "cell": 486,
+   "cat": "Keys",
+   "title": "Yordin's Key",
+   "desc_en": "He gave it to you to open his basement door, on the back of his house.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Yordin",
+   "desc_pt": "Ele lhe deu para abrir a porta de seu porão, nos fundos de sua casa.",
+   "title_de": "Yordins Schlüssel",
+   "desc_de": "Er gab ihn dir, um seine Kellertür auf der Rückseite seines Hauses zu öffnen.",
+   "title_es": "Llave de Yordin",
+   "desc_es": "Te la dio para abrir la puerta de su sótano, en la parte trasera de su casa."
+  },
+  {
+   "name": "YseultsKey",
+   "type": 900080,
+   "cell": 487,
+   "cat": "Keys",
+   "title": "Yseult's Key",
+   "desc_en": "A rewarded key from the king's assistant.\nMade to open a chest near the king's chamber.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Yseult",
+   "desc_pt": "Uma chave recompensada pela assistente do rei.\\nFeita para abrir um baú perto da câmara do rei.",
+   "title_de": "Yseults Schlüssel",
+   "desc_de": "Ein belohnter Schlüssel von der Assistentin des Königs.\\nGemacht, um eine Truhe nahe der Königskammer zu öffnen.",
+   "title_es": "Llave de Yseult",
+   "desc_es": "Una llave recompensada por la asistente del rey.\\nHecha para abrir un cofre cerca de la cámara del rey."
+  },
+  {
+   "name": "YusufKey",
+   "type": 900081,
+   "cell": 509,
+   "cat": "Keys",
+   "title": "Yusuf Key",
+   "desc_en": "Must open something in Yacht's boat.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave de Yusuf",
+   "desc_pt": "Deve abrir algo no barco de Yacht.",
+   "title_de": "Yusuf-Schlüssel",
+   "desc_de": "Muss etwas in Yachts Boot öffnen.",
+   "title_es": "Llave de Yusuf",
+   "desc_es": "Debe abrir algo en el barco de Yacht."
+  },
+  {
+   "name": "ZoesBallroomKey",
+   "type": 900082,
+   "cell": 521,
+   "cat": "Keys",
+   "title": "Zoe's Ballroom Key",
+   "desc_en": "Opens the Citadel's Ballroom from a side door.",
+   "spriteConfirmed": true,
+   "title_pt": "Chave do Salão de Baile de Zoe",
+   "desc_pt": "Abre o Salão de Baile da Cidadela por uma porta lateral.",
+   "title_de": "Zoes Ballsaalschlüssel",
+   "desc_de": "Öffnet den Ballsaal der Zitadelle durch eine Seitentür.",
+   "title_es": "Llave del Salón de Baile de Zoe",
+   "desc_es": "Abre el Salón de Baile de la Ciudadela por una puerta lateral."
+  }
+ ],
+ "_keys": {
+  "count": 83,
+  "spriteCells": {
+   "Key0": 480,
+   "Key1": 481,
+   "Key2": 482,
+   "Key3": 483,
+   "Key4": 484,
+   "Key5": 485,
+   "Key6": 486,
+   "Key7": 487,
+   "Key8": 488,
+   "Key9": 489,
+   "Key10": 490,
+   "Key11": 491,
+   "Key12": 492,
+   "Key13": 493,
+   "Key14": 494,
+   "Key15": 495,
+   "Key16": 496,
+   "Key17": 497,
+   "Key18": 498,
+   "Key19": 499,
+   "Key20": 500,
+   "Key21": 501,
+   "Key22": 502,
+   "Key23": 503,
+   "Key24": 504,
+   "Key25": 505,
+   "Key26": 506,
+   "Key27": 507,
+   "Key28": 508,
+   "Key29": 509,
+   "Key30": 510,
+   "Key31": 511,
+   "Key32": 512,
+   "Key33": 513,
+   "Key34": 514,
+   "Key35": 515,
+   "Key36": 516,
+   "Key37": 517,
+   "Key38": 518,
+   "Key39": 519,
+   "Key40": 520,
+   "Key41": 521
+  },
+  "note": "The client ships 42 key sprites (Key0-Key41) but no per-key sprite assignment - keys are not ScriptableItems, they only exist as names in KeyTranslations. Every key therefore points at the generic cell; all 42 sprites are in the atlas (cells 480-521) ready to be assigned by hand."
+ }
+}
