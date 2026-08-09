@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "channel_id": "1384399081689841724",
+    "channel_name": "in-game-roles",
+    "guild_id": "358965624107696128",
+    "updated": "2026-08-09T00:19:39.786112+00:00",
+    "total": 10
+  },
+  "messages": [
+    {
+      "message_id": "1387050121468051487",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "<@&1384436045877084170> \nProposed changes for balancing:\nMana Scaling 50% -> **75%**\nDefense Scaling 150% -> **125%**\n\nReasoning behind this:\nKnights are already pretty defensive the way they are, defense is already very present in shields, working really well in other classes. \nThis will also allow Knights to cast more spells, rendering the class less \"boring\"\nI am very inclined to make this change given the current <#1273289468383592491> , but I'd love to hear your opinion on the matter.",
+      "published_at": "2025-06-24T12:41:59.103000+00:00",
+      "edited_at": "2025-06-24T12:42:29.926000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1387050121468051487"
+    },
+    {
+      "message_id": "1387769475901952110",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "",
+      "published_at": "2025-06-26T12:20:26.565000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1387769475901952110"
+    },
+    {
+      "message_id": "1387769509829677186",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "<@&1384436342703783996>",
+      "published_at": "2025-06-26T12:20:34.654000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1387769509485740123",
+          "url": "https://cdn.discordapp.com/attachments/1384399081689841724/1387769509485740123/image.png?ex=6a787092&is=6a771f12&hm=3170a778cb9d04600c7dc68961d1d9e99803b687387ce7e4b81db511d971c7f5&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 2797,
+          "width": 267,
+          "height": 175
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1387769509829677186"
+    },
+    {
+      "message_id": "1388131871790993550",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "",
+      "published_at": "2025-06-27T12:20:28.478000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "poll_result",
+          "title": null,
+          "description": null,
+          "url": null,
+          "color": null,
+          "author_name": null,
+          "thumbnail": null,
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1388131871790993550"
+    },
+    {
+      "message_id": "1390277050681528380",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "<@&1384436429597311118> \nAfter thinking a lot about how to balance your late-game potential, I have come to a few conclusions:\n\n**- There needs to be more outsourcing power**\nWhat do I mean by this is that I think there should be more ways of powering your spells, that aren't Traits and Stats. I will look into adding Potions, Foods and Runes that can do that. Will give more info on how Runes work very shortly\n\n**- Casting Time shouldn't be a tiny flat value**\nYou must have noticed that all spells have a small casting time where your character freeze. Maybe that shouldn't be the case. Some high-end abilities should freeze your character more; Also a good idea to allow Traits, Potions and Runes to reduce casting time. e.g.: Electric Nature now reduces casting time by 10/20/35%\n\n**- Regen is too available?**\nEven though I do consider regen a non-important stat because of money, perhaps some changes to regen are in hand, where it will also affect other classes. Foods and Potions could buff your regen on %, allowing your base stats to be a bit lower. This would reward cooking and resource spending to make \"important\" hunt cycles more well defined (Gather money, buy Good Potions and Good Food, hunt important monsters, repeat)\n\nWill open a thread here for discussion! Please keep the discussion civil 🫡",
+      "published_at": "2025-07-03T10:24:38.981000+00:00",
+      "edited_at": "2025-07-03T12:54:43.410000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1390277050681528380"
+    },
+    {
+      "message_id": "1465128033407996106",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "to all <@&1384436045877084170>s that are above level 20, can we go back to this discussion?",
+      "published_at": "2026-01-25T23:35:43.927000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1465128033407996106"
+    },
+    {
+      "message_id": "1465473112320774174",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Proposed \"<@&1384436045877084170>s\" Changes:\n\n2Hand Tree:\n- Steady Bloodflow: Now reduces All Spell Health Costs by 25/35/50% (instead of 200%, would be 175% for example)\n- Magic Blade: Now Gives 10% Mana **and ** Life Leech\n- Core Strength: Now uses 3% of your Max **Health** and caps at 15\n- Unfathomable Rage: Forces all spells to be casted with Health (this includes Heal, so still a \"cursed\" trait)\n\nShield Tree:\n- Deflect: Gets replaced by \"Blood Aegis\": Allows all Defense spells to be casted with Health\n- Bulwark Leap: Now when casting a \"Dash\" spell while holding a shield, will cast Overwhelming Force where you land\n- Guard Training: Now when standing still for 2 seconds will cast a weaker version Windfall (AoE heal) around yourself with 100% chance\n\nOne Hand Tree:\n- Sacred Accrue: Waiting timer gets reduced to 2 seconds and Damage to 30\n- Dual Wielding: Gets buffed from 39/36/28% to 36/32/25%\n- To Be Ninja: Now Gives Flat 25 Health when triggering the 35% chance Haste spell\n- Blade Prowess: Now gives 10% Spellvamp with 50% Blade spell CDR (and I will fix it)\n\nHeavy Armor Tree:\n- Heavy Metal: Gets a buff from 100/75/25 to 75/55/25\n- Juggernaut: Now ignores negatives, gives 1% Lifeleech and 5% Ability for each Heavy Armor Equipped\n- Magic Steel: Now, when taking magic damage, will absorb 15/20/35% of that damage as Mana\n- Blessed Plate: Now gives +1 Mp Regen, 1 Magic and 20 Mana for each Heavy Armor\n- Matching Adornments: Now gives +1 Hp Regen, 1 Ability and 20 Health for each Heavy Armor (ignoring sets)\n- Endowed in Steel: Now only incapacitates your hands, leaving: Backpack, Necklace, Ring and Torch slot working\n\nLight Armor Tree: (just to match the heavy armor mirror)\n- Clothes of the Damned: Now ignores negatives, gives 1% Spellvamp and 5% Magic for each Light Armor Equipped\n\nKnife Tree:\n- Cooking Sidejob: Gets buffed from 3/6/10 to 6/12/20 Mana Regen\n\nBow Tree: (small rogue sidequest here, don't mind me)\n- Swiftstride: Gets buffed from 15/20/30 to 15/22/35\n- War Hoarding: Gets buffed from 1 damage to 2 damage for each 100 arrows\n\nStaff Tree: (replacing unfathomable here)\n- Warlock: Now turns 2 intake Damage into 1 Mana\n\nGlove Tree: (also not related to knights, another sidequest)\n- Arcane Trickster: Buff from 4 seconds to 8\n- Battle Mage: Buff from 50 Max Mana to 35\n\nPlease discuss this here: https://discord.com/channels/358965624107696128/1387050121468051487",
+      "published_at": "2026-01-26T22:26:57.151000+00:00",
+      "edited_at": "2026-01-26T23:24:46.996000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1465473112320774174"
+    },
+    {
+      "message_id": "1465515947061149777",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "<@&1384436429597311118> \nI want to work a bit on your class, what are some things you feel are missing or overtuned? Right off the bat, I can think of a few things that should definitely incentivize more of you to become a healer.\nPlease discuss here: https://discord.com/channels/358965624107696128/1390277050681528380",
+      "published_at": "2026-01-27T01:17:09.749000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1465515947061149777"
+    },
+    {
+      "message_id": "1465517794002080028",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "<@&1384436342703783996> Right now I feel your class is very balanced, though I proposed some small changes here:  https://discord.com/channels/358965624107696128/1384399081689841724/1465473112320774174 \nBut I think overall all that is lacking for Rogues right now is more variety: More weapons, more ways of utilizing tools like bombs and other items that would behave like it. I'd love to hear what you think (will open a thread here for discussion)",
+      "published_at": "2026-01-27T01:24:30.094000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1465517794002080028"
+    },
+    {
+      "message_id": "1472709412731752601",
+      "channel_id": "1384399081689841724",
+      "channel_name": "in-game-roles",
+      "author": {
+        "id": "155149108183695360",
+        "username": "Dyno",
+        "display_name": "Dyno",
+        "avatar": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=128"
+      },
+      "content": "Choose your in-game class. You will be tagged about balancing discussions.",
+      "published_at": "2026-02-15T21:41:25.613000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/1384399081689841724/1472709412731752601"
+    }
+  ]
+}

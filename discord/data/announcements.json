@@ -1,0 +1,2027 @@
+{
+  "meta": {
+    "channel_id": "491750954753064960",
+    "channel_name": "announcements",
+    "guild_id": "358965624107696128",
+    "updated": "2026-08-09T00:19:38.050505+00:00",
+    "total": 90
+  },
+  "messages": [
+    {
+      "message_id": "1277264129517813801",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Hey @everyone ! Thank you all for the interest in the game, I really appreciate it. \nToday is the last day of closed beta, which we planned to close in no more than 12 hours from now. So, for that reason, **I am not giving any further keys**. We already know that the main issue with the game is the map, which isn't big enough to hold the current demand. Like I have explained many times, the Apogea you're playing is a small sample (15%) of what the game is supposed to be - we put it online because we had no idea anyone would actually be interested in the game. So now that we know that, we can start working on the real thing.\nThe server will have more tests that will be announced once we think we can handle more players, so, please, be patient 🙏 \nI will also be posting constant updates about what we're working on to let you guys in the development process.\nThank you all for helping us test the game. It was an amazing opportunity to form new connections with the community 🫡 \nAlso please check the <#1273297774523191378> and the <#1274041587168575562> where you can learn more about the game.",
+      "published_at": "2024-08-25T13:51:38.897000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1277264129517813801"
+    },
+    {
+      "message_id": "1278076530215489557",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone Sorry for the random tag, but, can you give me a simple 👍  or 👎  on this idea?\n\n**A 5$ Patreon for Apogea, which gives you:**\n- +1 extra stress test day. Stress tests will usually be done during Saturday and Sunday, but you get to login on Friday.\n- A special reward that we will collectively design (outfit? pet? item? title?) that will be added to the Patreon supporter's account on release\n- Something else? (Make a suggestion) \n\nThe special reward is on top of the beta tester reward, which the <@&388859627116167169> role will already get 🫡 \nBy the way, if you're wondering why I'm **suggesting** this, check out our conversation on <#1277610826202878036>",
+      "published_at": "2024-08-27T19:39:50.317000+00:00",
+      "edited_at": "2024-08-27T20:01:30.045000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1278076530215489557"
+    },
+    {
+      "message_id": "1279803998874107904",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone Please check out our Patreon! https://www.patreon.com/Apogea\nAsk me anything about it or give me feedback here on Discord - I will also very soon update it with the roadmap and other useful things.\nBy the way, if you can't help us with Patreon, **its not a big deal**, your support is already very valuable 🫡\n<@&358970663635255296> <@&388859627116167169>",
+      "published_at": "2024-09-01T14:04:10.940000+00:00",
+      "edited_at": "2024-09-01T14:04:24.817000+00:00",
+      "embeds": [
+        {
+          "type": "article",
+          "title": "Get more from Apogea on Patreon",
+          "description": "Help us make the game faster!",
+          "url": "https://www.patreon.com/Apogea",
+          "color": 16119285,
+          "author_name": null,
+          "thumbnail": "https://c7.patreon.com/https%3A%2F%2Fwww.patreon.com%2F%2Fcard-teaser-image%2Fcreator%2F12743161%3Fc=943611248636999350/selector/%23creator-teaser%2C.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1279803998874107904"
+    },
+    {
+      "message_id": "1283591493160013895",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone\nHello Apogea Friends, \n\nI’m pleased to inform you that the Patreon page (https://www.patreon.com/Apogea) has been updated to provide a clearer overview of the rewards. \nAdditionally, I’ve updated the <#1274041587168575562>  with the scheduled date for the stress tests. \nI’ll make sure to tag you all again when we begin the key giveaways.\n\nThank you for all of your support,\nEd",
+      "published_at": "2024-09-12T00:54:19.946000+00:00",
+      "edited_at": "2024-09-12T01:19:46.845000+00:00",
+      "embeds": [
+        {
+          "type": "article",
+          "title": "Get more from Apogea on Patreon",
+          "description": "Help us make the game faster!",
+          "url": "https://www.patreon.com/Apogea",
+          "color": 16119285,
+          "author_name": null,
+          "thumbnail": "https://c7.patreon.com/https%3A%2F%2Fwww.patreon.com%2F%2Fcard-teaser-image%2Fcreator%2F12743161%3Fc=-624939647956584116/selector/%23creator-teaser%2C.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1283591493160013895"
+    },
+    {
+      "message_id": "1288765877537341440",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "102641873708912640",
+        "username": "sheepii",
+        "display_name": "Sheepii",
+        "avatar": "https://cdn.discordapp.com/avatars/102641873708912640/a_1289256a73aa62b30a083b00fc027fa1.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea Stress Test__**\n\nHello everyone!\n\n**Everyone:**\nThis weekend you will be able to use the command  `/claim key` to join the stress test. \n-# **Note:** These keys are not available yet, they will be available after early access. We will announce when they're available.  \n\n**Patreon:**\n1. Do the command `/claim earlyaccess` this will allow you to claim your early access key. \n2. ~~As a [Patreon Supporter](<https://www.patreon.com/Apogea>), you can also do the command `/claim friends` to get 3 early access tokens for your friends.~~ \n-# **Important:** This command does not *actually* claim friends, you unfortunately have to find those yourself. 😉 Contact <@258018973696655364> for friend keys, someone abused it <:sadge:1136316944698589235>\n3. Wait for us to announce the server is open. You won't be able to access it until tomorrow. \n\n**To activate:**\n1. Go to *Steam*\n2. Click *Game* in the toolbar\n3. Click *Activate a Product on Steam...*\n4. Paste in your key\n\nPlease be mindful, keys are personal, do not share them, if your friends want to play, just invite them to the discord, and they can claim their key too. \n\nThank you all for your support, \nStaff Team",
+      "published_at": "2024-09-26T07:35:29.317000+00:00",
+      "edited_at": "2024-09-28T05:45:33.978000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1288765877537341440"
+    },
+    {
+      "message_id": "1289253374566465586",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Servers will be on in 30 minutes__**\nYou can login if you're a [Patreon Supporter](<https://www.patreon.com/Apogea>) or has been invited by one. \nOnce online please remember to use the *Report tool* or the <#1289251591769297069> and <#1273289468383592491> channels\nThank you and have fun!",
+      "published_at": "2024-09-27T15:52:37.666000+00:00",
+      "edited_at": "2024-09-27T15:53:53.633000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1289253374566465586"
+    },
+    {
+      "message_id": "1289595570360553552",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea will be available for everyone in 1 hour__**\n\nYou can type `/claim key` to get a Steam Key and download the game.\n\n**__Don't copy paste this, you have to type it on the window console__**\n\n**To download Apogea on Steam:**\n1. Go to *Steam*\n2. Click *Game* in the toolbar\n3. Click *Activate a Product on Steam...*\n4. Paste in your key\n\nYou will not be able to login, the servers will only be available in 1 hour.\n\nThank you and see you there!",
+      "published_at": "2024-09-28T14:32:23.501000+00:00",
+      "edited_at": "2024-09-28T15:07:09.770000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1289595570360553552"
+    },
+    {
+      "message_id": "1289596597906313320",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "102641873708912640",
+        "username": "sheepii",
+        "display_name": "Sheepii",
+        "avatar": "https://cdn.discordapp.com/avatars/102641873708912640/a_1289256a73aa62b30a083b00fc027fa1.png?size=128"
+      },
+      "content": "# **__Just a friendly reminder on the command__**\n\nSeems like it's a common issue that some people aren't understanding on how to input the command. \n**You cannot copy and paste the command.** You have to actually type it out. \n\n`/claim` is a command used by the bot to claim rewards.",
+      "published_at": "2024-09-28T14:36:28.487000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1289596597906313320"
+    },
+    {
+      "message_id": "1289617089992327202",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea is available for everyone__**\n\nYou can play right now <:YOU:1290210781761241100> <:PogU:1289715803540951204> \n\n**__Please make sure your client version is 1.7.8__**\n\nIf it's not, reboot Steam to force an update.\n\nThank you and have fun!\n\n<@&358970663635255296>",
+      "published_at": "2024-09-28T15:57:54.181000+00:00",
+      "edited_at": "2024-09-30T07:20:06.639000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1289617089744732352",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1289617089744732352/image.png?ex=6a78a382&is=6a775202&hm=a294b075dd161bbd500c121f6428d1f2a509149a2020c30b023fa77a05615b72&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 885205,
+          "width": 1920,
+          "height": 1023
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1289617089992327202"
+    },
+    {
+      "message_id": "1290341349056315553",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone Depot Party <:Pogg:1289717491261767801>\nAnd with that, we concluded our stress tests\nThank you all for playing 🫡",
+      "published_at": "2024-09-30T15:55:50.998000+00:00",
+      "edited_at": "2024-10-02T06:09:20.359000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1290341348544741448",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1290341348544741448/image.png?ex=6a78a306&is=6a775186&hm=507ccc59231087eadaf157c5a035c9b0f063b32eceb5daf3f3d025957690263e&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 2663652,
+          "width": 1611,
+          "height": 821
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1290341349056315553"
+    },
+    {
+      "message_id": "1291495949046255739",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Announcement time!__**#\n\nHey <:markcharm:675019738656538654> 👋 \n\nAs many of you know, the recent stress tests have officially concluded. <:pepehands:1289709227094442025> \nBut don’t worry - we have some fantastic news to share! <:eyes_freaky:1290164421892767744> \n\nThe last test exceeded all our expectations, with the servers running at just 6% total capacity! 💪 \nThis means we can push the limits even further in the next round of testing.\n\n**__Which, speaking of: Will happen on the 25 October for [Patreon Supporters](<https://www.patreon.com/Apogea>) and 26 for everyone else, lasting for 3 days just like last time.__**\n\nPlease note: We will be wiping the database clean for this test due to some internal adjustments <:pepethink:1289718865173151806> \n\n**However, as a thank you for your support during the stress tests, all players who participated in it will unlock a special NPC dialogue that grants you some gold and an instant boost of 13 levels! <:pepeok:1289709221725863987> **\n\nWe’d love to hear your thoughts! If you have suggestions or ideas on how to improve the next stress test, feel free to share them!\n\nThank you all for your continued support in making Apogea an amazing game 🫡",
+      "published_at": "2024-10-03T20:23:49.087000+00:00",
+      "edited_at": "2024-10-03T21:10:55.233000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1291495948756979743",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1291495948756979743/imagem3BG.png?ex=6a78e1d5&is=6a779055&hm=f61b0128c6f0bed1c7bbce5490a82489c9c4160f395be07757f29baa335348db&",
+          "filename": "imagem3BG.png",
+          "content_type": "image/png",
+          "size": 682897,
+          "width": 1820,
+          "height": 500
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1291495949046255739"
+    },
+    {
+      "message_id": "1299417149173006407",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea is now available for [Patrons](https://patreon.com/Apogea)__**\n\nYou can play right now <@&1279893950496247938> <@&1279835655899316254>   <:you:1290210781761241100> <:PogU:1289715803540951204> \n\n**Please make sure your client version is 1.8.5**\n*If it's not, reboot Steam to force an update.*\n\n**Also, please register your account using your Patreon email or Friend email**\n\nIf you don't have Apogea downloaded on Steam, please use the command provided here: https://discord.com/channels/358965624107696128/1288639752714850345/1299088652273586217\nAnd activate it on Steam as explained below 👇\n\nThank you and have fun! <a:finger_dance:841792697883033640>",
+      "published_at": "2024-10-25T16:59:50.366000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1299417149223211028",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1299417149223211028/image.png?ex=6a78b206&is=6a776086&hm=d10a0456dc5693700320adcb54349ca5f37b850eff7c4a8b332b73e8f5de8970&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 50381,
+          "width": 520,
+          "height": 245
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1299417149173006407"
+    },
+    {
+      "message_id": "1299780193526743093",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea is now available for Everyone__**\n\nYou can play right now  <:you:1290210781761241100> <a:PogFishAnimated:1289716568648978557>  \n\n**Please make sure your client version is 1.8.6**\n*If it's not, reboot Steam to force an update.*\n\n~~If you don't have Apogea downloaded on Steam, please use the command on <#1297639781710172160> as explained here: ~~\nStress test is over, wait for the next announcement <:yungyrYah:1188179559254851585> \nhttps://cdn.discordapp.com/attachments/1183158644766941306/1289596559083700224/claim_tutorial.gif\n~~And activate it on Steam as explained below 👇~~\n\nThank you and have fun! <:pepecheers:1289709210434666567>",
+      "published_at": "2024-10-26T17:02:26.885000+00:00",
+      "edited_at": "2024-10-29T17:09:25.218000+00:00",
+      "embeds": [
+        {
+          "type": "image",
+          "title": null,
+          "description": null,
+          "url": "https://cdn.discordapp.com/attachments/1183158644766941306/1289596559083700224/claim_tutorial.gif",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://cdn.discordapp.com/attachments/1183158644766941306/1289596559083700224/claim_tutorial.gif?ex=6a789063&is=6a773ee3&hm=803b3be06fdecc27827b1bb15c9fb6cd7aee16096895fead44e570588b3020d7&",
+          "image": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": "1299780193640255566",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1299780193640255566/image.png?ex=6a78b2a2&is=6a776122&hm=b397320d2d9ce909fa7d0dbc85e4a0460c29bd455775dd6ce541efa8539528f1&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 50381,
+          "width": 520,
+          "height": 245
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1299780193526743093"
+    },
+    {
+      "message_id": "1301234568908509245",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone <@&358970663635255296> <@&388859627116167169> <@&1279893950496247938> <@&1279835655899316254> \n# **__Stress Test Concluded!__**#\n\nHey guys, I apologize for taking so long to write an announcement.\n\nIt's mainly because there isn't much to say, honestly, the tests were successful and your feedback has been great.\nSpecial thanks to the really honest people giving very valuable <#1277486918250270720>  and <#1273289468383592491> - you guys rock <:pepecheers:1289709210434666567> \n\nAnd, for that reason, I ask that you be patient: so we can work on getting the game out while also providing sporadic tests.\n\n**The next test is scheduled for November 29 to our [Patreon Supporters](<https://www.patreon.com/Apogea>) and 30 for everyone else ** 👉  <t:1732849200:R>\n\nFor the next month we will focus on:\n- Balancing classes *(Traits, Healing, etc.)*\n- Enhancing nighttime gameplay *(NPCs, Secrets, Bosses)*\n- Expanding the Map *(New area? 👀)*\n- Adding fresh content *(Items? Spells? Systems? <a:pogtasty:1289717463994470536> )*\n\nOh, and one last thing. Steam has recently refused to give out keys for Apogea; Due to *(according to them)* a lack of interest in the game <:AngryChamp:1289717544286031933>\n# So, I hate to be that guy, but have you wishlisted the [Game on Steam](https://store.steampowered.com/app/2796220/Apogea/) ?\nAnd as always, thank you all for your continued support. We're making Apogea into a great game 🫡",
+      "published_at": "2024-10-30T17:21:36.997000+00:00",
+      "edited_at": "2024-10-30T18:35:24.795000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1301234569349042228",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1301234569349042228/imagem3BG.png?ex=6a78b721&is=6a7765a1&hm=bc55ff33d8a5cf676d3f1855e9d45bb5d74970dbbb3f0d82d6a60904c0bb83c3&",
+          "filename": "imagem3BG.png",
+          "content_type": "image/png",
+          "size": 682897,
+          "width": 1820,
+          "height": 500
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1301234568908509245"
+    },
+    {
+      "message_id": "1303605055513038879",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nI have some bad news to give, which is completely out of my control, unfortunately.\nAttached below you can see that all of my key requests from Steam have been denied, meaning I can no longer provide keys to anyone (I have something around 200 keys left)\n\n**This means that during the next test, only Patrons will get access to Steam Keys. **\n**Please note that if you're not a Patron but you already have the game on Steam, you will be able to play the game on November 30 normally.**\n\nI hope that you can understand this and I apologize to anyone new that was looking forward to the next test\nOh and I will open a topic here for you guys to discuss a possible solution to this (if there is one, because I couldn't think of any)\nThank you",
+      "published_at": "2024-11-06T06:21:05.045000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1303605055047467070",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1303605055047467070/image.png?ex=6a78c510&is=6a777390&hm=ba015383fa626fad34b97e2e000e0582ace2c9cb3c1f6d25721d0d4dceb3057e&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 22736,
+          "width": 557,
+          "height": 249
+        },
+        {
+          "id": "1303605055307386901",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1303605055307386901/image.png?ex=6a78c510&is=6a777390&hm=cd337f3a3e2731d4a583a4ea548516394ec34f30afbd18ccd4a64400df49dfe1&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 20082,
+          "width": 601,
+          "height": 219
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1303605055513038879"
+    },
+    {
+      "message_id": "1306304316126003200",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nHey guys, here's some important warnings about the upcoming test <a:wait_wait_wait:1299404956557774885> \n\n# If you're planning on playing during the next test, please do not subscribe to [Patreon](https://www.patreon.com/Apogea) too late\n\nThe reason for that is because I am **not** sure how many keys of the ones I have left actually works. So if we run into problems,** I can refund you earlier.**\n*I will probably be too busy to refund during the test days.*\n\n- ** I am already a Patron and have no key**  <:monkaStop:1289718950711787551> \nPlease send me a DM so I can send you one.\n\n- ** I have a new friend that wants to play**  🫂 \nl will give one extra key for Patron friends on **November 24** <t:1732478400:R>, I will also need their emails.\n\n- ** What about a Patron friend that already has a key?** <:pepeSusThink:1091807477932228672> \nPlease re-send me their emails whenever you can, they will play normally on the 29.\n\nAdditionally, I have updated the timestamp to represent the actual time servers will open: <t:1732910400:R> <:pogU:1290210909180006402> \n\nAnd as always, thank you all for the support and I'm looking forward to the next test. <:eyes_freaky:1290164421892767744>",
+      "published_at": "2024-11-13T17:06:58.925000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "article",
+          "title": "Get more from Apogea on Patreon",
+          "description": "Help us make the game faster!",
+          "url": "https://www.patreon.com/Apogea",
+          "color": 16119285,
+          "author_name": null,
+          "thumbnail": "https://c7.patreon.com/https%3A%2F%2Fwww.patreon.com%2F%2Fcard-teaser-image%2Fcreator%2F12743161%3Fc=6838654900071554964/selector/%23creator-teaser%2C.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1306304316126003200"
+    },
+    {
+      "message_id": "1308942981826609182",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \n# We are officially out of keys, so I ask everyone to **not** pay for Patreon if you're doing it to get a key.\nNext month we will do a new form of testing where keys will be more available.\n\nI'm sorry to anyone that was hoping to try the game out for the first time and couldn't support on Patreon on time - remember, you guys can still do it in December 🫡  \nAnd as always, thank you all for supporting us, means a lot.",
+      "published_at": "2024-11-20T23:52:05.852000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1308942981826609182"
+    },
+    {
+      "message_id": "1312146132784250880",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea is now available for Patrons__**\n\nYou can play right now <@&1279893950496247938> <@&1279835655899316254>    <:you:1290210781761241100> <:PogU:1289715803540951204> \n\n**Please make sure your client version is 1.9.6**\n*If it's not, reboot Steam to force an update.*\n\n**IF YOU ARE NEW please register your account using your Patreon email or Friend email**\n\nThank you and have fun! <a:Pepe_Stabby_R:1299415069133766759>",
+      "published_at": "2024-11-29T20:00:16.552000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1312146132784250880"
+    },
+    {
+      "message_id": "1312508423153258677",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# **__Apogea is now available for Everyone__**\n\nYou can play right now (if you have a key)  <:you:1290210781761241100> <a:PogFishAnimated:1289716568648978557>  \n\n**Please make sure your client version is 1.9.9**\n*If it's not, reboot Steam to force an update.*\n\n# Also, if you want to report a bug or give feedback, use <#1289251591769297069> and <#1273289468383592491> \n\nThank you and have fun! <a:totklink_nod_112x112:1130542304252407868>",
+      "published_at": "2024-11-30T19:59:53.307000+00:00",
+      "edited_at": "2024-11-30T20:00:21.884000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1312508423153258677"
+    },
+    {
+      "message_id": "1313208283879706654",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nHey guys! 👋 \nSo far the tests have been great, for that reason I will extend them for another 24 hours <:pogU:1290210909180006402>  \nI might even extend it yet another day, depending on how you guys progress through the map.\nThank you for helping us test the game and I apologize for any bugs you might have encountered.\n\n# And if you do find any further bugs or have any suggestions, \n# post them on <#1289251591769297069> and <#1273289468383592491> - avoid sending me private messages.\n\n\nHave fun in Apogea 🫡",
+      "published_at": "2024-12-02T18:20:53.107000+00:00",
+      "edited_at": "2024-12-02T19:01:17.446000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1313208283879706654"
+    },
+    {
+      "message_id": "1313613797767778384",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \n# Tests and the Community\n\n**First of all, we are extending the test for yet another 24 hours** <:pogU:1290210909180006402> \nHere is the official time that we will **probably** shut down the servers: <t:1733342400:R>  👈 \n\nAlso, I don't believe that I have to actually say this, but, since Apogea doesn't have any rules yet, **consider the game's rules the same as Steam and Discord** - which means if you break any of their rules, you have broken Apogea's rules and you will be banned from the tests. <:WeirdChamp:1289717403613270068> \n\nAnd again guys, I know that it feels better to send me direct messages about Apogea, but you **need** to give suggestions and bug reports in the correct discord channels, your suggestion needs public approval to be relevant! I will not revise any DM suggestions for that specific reason. <a:NODDERS:887557752971472926> \n\nThank you all for helping us test the game and enjoy those last 24 hours 🫡 \n-# News about the upcoming tests are coming soon 👀",
+      "published_at": "2024-12-03T21:12:15.152000+00:00",
+      "edited_at": "2024-12-03T21:12:38.927000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1313613797495279636",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1313613797495279636/development2.png?ex=6a78ed2f&is=6a779baf&hm=aa92f00f716564386437a13508a0cc7b5e39fbc6891a079f71b9aaebd0471f89&",
+          "filename": "development2.png",
+          "content_type": "image/png",
+          "size": 324853,
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1313613797767778384"
+    },
+    {
+      "message_id": "1314349837831110787",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# Last Hours of Test 🕐 \nThe time has come! Even though we decided to keep the servers on for a bit longer, we will shut it down in a few hours.\nIt was a great test, as always, and you guys have helped us immensely! \nThanks to our bug-detection tool, we fixed a lot of bugs we didn't even knew existed <:poggin:1289734879545655357> \n\n# Apogea Rules 📖 \nAdditionally, I would like to show you all our new <#862137659098660914> , and would love for you to give us some input into what you think about it.\nEach rule has a discussion opened where everyone can chime in and give their opinions.\n\n# Next test and PvP ⚔️ \nAbout the next test, sadly we will have to delay the \"North and Axe\" update to January/Februrary, due to how tight our schedule has been the past month.\nInstead, we will replace it with a PvP test, focused on testing how the Player versus Player actually works in Apogea.\nTo make this work, we will make all of your progress **not** be saved - and allow you to get a \"papaya\" bonus to level your character.\nAlso, the death penalty will be completely removed - to encourage more PvP to happen... And progress after level 30 will be halted, giving no experience.\n\n*I will open a discussion here for you guys to give us some thoughts about this.*\n\n# Keys and Steam 🔐 \nAbout the keys and allowing new testers to join, we are currently working out a solution with Steam to allow for a big test to happen.\nHopefully, by mid December, we will have a new module of testing on Steam that will allow me to distribute access more freely\n\nAnd, as always, thank you all for supporting us in making the game the best it could be 🫡",
+      "published_at": "2024-12-05T21:57:00.778000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1314349837587710023",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1314349837587710023/imagem3BG.png?ex=6a78f7ac&is=6a77a62c&hm=2d256294b6b2206c03714337b08b12585a069227f9746c3ac2e07c3359956a73&",
+          "filename": "imagem3BG.png",
+          "content_type": "image/png",
+          "size": 682897,
+          "width": 1820,
+          "height": 500
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1314349837831110787"
+    },
+    {
+      "message_id": "1316159349651144714",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nHey everyone!\nStarting now, you can request to be part of the next playtest via Steam\n\nTo do so, simply visit the Steam store page: \nhttps://store.steampowered.com/app/2796220/Apogea/\nAnd click the button posted below 👇 \n**You must do this even if you already have a key, since this is a new game/package on Steam!**\n\nAnd if you don't already know, next test will have a few things different from last test:\n- Bloodmoon will happen every 1 hour in the real world\n- The death penalty will be completely removed\n- Your character progress from the start of the test to the end will **not** be saved\n-# The database will be backed up from the end of last test, so, after the PvP test, all characters will be reset to that point.\n- You will be able to get a gold + experience bonus from the temple NPCs\n\nThese changes exist to incentivize PvP to happen more often, so we can gather feedback and improve it <:pepeok:1289709221725863987> \n\nIf everything goes right, this test should be available on** December 15** and will probably last for 3 days, the first one being exclusive for Patrons.\nThank you and I will see you there! 🫡",
+      "published_at": "2024-12-10T21:47:22.015000+00:00",
+      "edited_at": "2024-12-10T21:50:40.032000+00:00",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Apogea",
+          "description": "Apogea is a medieval fantasy massively online multiplayer role-playing game (MMORPG) where you can immerse yourself in a seamless and intricate world brimming with secrets, quests, dangers, and, most importantly, other players. We believe in a \"not pay to win\" philosophy, ensuring that all players have an equal opportunity to succeed based on th...",
+          "url": "https://store.steampowered.com/app/2796220/Apogea/",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796220/header.jpg?t=1733864933",
+          "image": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": "1316159349705408574",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1316159349705408574/image.png?ex=6a78f56a&is=6a77a3ea&hm=368ddc83126910366999908c5de23b35783a1fd742a30453983c1e2d369e126d&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 33500,
+          "width": 641,
+          "height": 142
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1316159349651144714"
+    },
+    {
+      "message_id": "1316897789191393363",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone\n# Regarding the upcoming PvP Test <a:Pepe_Stabby_R:1299415069133766759> \nSo, I'm letting you all know that the next PvP test will be** free for everyone on the first day.** <:pogU:1290210909180006402> \nThis will only happen during this test, so we can stress test it as much as possible.\nPatrons will still get exclusive access though, only this time around it will be on the **last days of test.**\n\nAdditionally, I would like to ask you guys what do you think about moving the tests to **December 20**, instead of December 15\nThis would allow us to make some more changes in the game, while also having the test happen on a weekend, rather than on a Sunday.\nPlease vote with a 👍 (20) or 👎  (15) on this idea; I will also open a discussion here so we can figure out the best solution.\n\nAnd as always, thank you all for supporting us 🫡",
+      "published_at": "2024-12-12T22:41:39.721000+00:00",
+      "edited_at": "2024-12-12T23:19:36.891000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1316897788960833619",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1316897788960833619/player_connection.png?ex=6a790223&is=6a77b0a3&hm=6ef5a5f7057583027593b817afa1b5493fd23c2eced4c8750f6e032c5191f1f8&",
+          "filename": "player_connection.png",
+          "content_type": "image/png",
+          "size": 330969,
+          "width": 512,
+          "height": 512
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1316897789191393363"
+    },
+    {
+      "message_id": "1318690323626590249",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \n\nNext test has been confirmed, we will open the servers on this time:\n# <t:1734728400:R>\n**Hover your mouse on top of it to see the specific time.**\n\nMake sure you have requested access on [Steam](https://store.steampowered.com/app/2796220/Apogea/) (as shown on Image below)\n\nLet me know if there are any questions and I'll see you in 3 days 🫡",
+      "published_at": "2024-12-17T21:24:33.234000+00:00",
+      "edited_at": "2024-12-17T21:24:47.429000+00:00",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Apogea",
+          "description": "Apogea is a medieval fantasy massively online multiplayer role-playing game (MMORPG) where you can immerse yourself in a seamless and intricate world brimming with secrets, quests, dangers, and, most importantly, other players. We believe in a \"not pay to win\" philosophy, ensuring that all players have an equal opportunity to succeed based on th...",
+          "url": "https://store.steampowered.com/app/2796220/Apogea/",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796220/header.jpg?t=1734416481",
+          "image": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": "1318690323915870218",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1318690323915870218/image.png?ex=6a78f011&is=6a779e91&hm=0a287017bb8512275b0f4b5510aacc3121fa1cd96150a754d006c3a2772d79ac&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 33500,
+          "width": 641,
+          "height": 142
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1318690323626590249"
+    },
+    {
+      "message_id": "1319771680993972346",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nServers are now live!\n# Make sure you update your client on Steam by either **Restarting Steam**, or forcing **Integrity Check**.\nI am also streaming right now, gonna be answering some questions, playing the game and talking about upcoming features: https://twitch.tv/edfarage\nAlso, all <@&388859627116167169> please check the <#1291515340437848064> channel <:eyes_freaky:1290164421892767744> \n\nAnd that's it, let me know if you got any questions and have fun! 🫡",
+      "published_at": "2024-12-20T21:01:28.921000+00:00",
+      "edited_at": "2024-12-20T21:02:47.546000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1319771680993972346"
+    },
+    {
+      "message_id": "1320206935198404659",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone <@&358970663635255296> <@&388859627116167169> \nHey everyone! Hope you've been liking the test so far.\n\nI want to thank you all for the feedback we've gotten and I really appreciate you guys using the correct channels to ask and/or report things 🙏 \nBut just in case, here's some info about it:\n- If you need any information, use <#1289263152189669500> \n- If you found a bug, use <#1289251591769297069> \n- If you have feedback, use <#1273289468383592491> \n- If you thought of a cool feature, use <#1277486918250270720> \n\nAbout the test, here's the time we will be closing the servers and make them Patreon-only:\n# <t:1734901200:R>\n\n# After the servers are Patreon only, we will be hosting a PvP tournament sponsored by <@456226577798135808> <:eyes_freaky:1290164421892767744> \nShe will give rewards to the top 3 best PvPers in this test <:pogU:1290210909180006402> \nHere are the rewards:\n- **First Place:** Equivalent of 4 Tier1 Patreon months\n- **Second Place:** Equivalent of 2 Tier1 Patreon months\n- **Third Place:** Equivalent of 1 Tier1 Patreon month\nYou can choose to gift this reward or redeem it <a:totklink_nod_112x112:1130542304252407868> \n\nHere are the rules to participate:\n- Have a level 24-26 character\n- Be a <@&1279893950496247938> or <@&1279835655899316254> \n- Type your character name on <#1320203065189728287> \nYou have until <t:1734966000> to sign up to the tournament\n\nThe tournament will start <t:1734987600:R>\n**After the tournament is done, the servers will be shut down until the next test 🫡 **\n\nAnd that's it! Hope you've been enjoying Apogea and thank you again for all of the support.",
+      "published_at": "2024-12-22T01:51:01.610000+00:00",
+      "edited_at": "2024-12-22T02:34:54.563000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1320206934950936597",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1320206934950936597/imagem3BG.png?ex=6a7885c5&is=6a773445&hm=92291c25a66cefef8a2122e14e40164ae6aa79d8393e7895c61edf945a3b5bac&",
+          "filename": "imagem3BG.png",
+          "content_type": "image/png",
+          "size": 682897,
+          "width": 1820,
+          "height": 500
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1320206935198404659"
+    },
+    {
+      "message_id": "1320509909246414888",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nServers are now back and Patron-exclusive.\n# If you are Patron and you're getting the message: \"Server is restricted for Patrons only\" please send me the email you used to register your account via private message here on Discord\n\n**Additionally, please check the above message ☝️ to read about the PVP Tournament 💀 **\n\nHere's the time the PvP test will happen, followed by the servers closure: <t:1734987600:R>\n\nThank you all for helping us test Apogea, once again.",
+      "published_at": "2024-12-22T21:54:56.252000+00:00",
+      "edited_at": "2024-12-22T21:55:25.006000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1320509909246414888"
+    },
+    {
+      "message_id": "1320891134599499858",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nThe tournament is officially over, it was super fun! You can check the vod here: https://www.twitch.tv/videos/2334330749\n# The winner was <@117098289349918724> (a mage <:wow_emoji:1299404900911808593> ), and, per his wish - he will gift 5 Patreon months to one person of each nationality.\nSo, **reply to this post with your country's flag 🇧🇷**  and we will pick a random person that reacted as a winner!\n\nAdditionally, we will be shutting down the servers very shortly, here's the time: <t:1734996600:R>\nAbout the next test, it might take a bit longer to happen, due to how much feedback we have to go through.\nI hope you can all be patient with us so that we can deliver something of quality till launch <:pepeok:1289709221725863987> \n\nAnd that's, it thank you all for helping us with the game so far, you guys rock and Merry Christmas <:peepoSanta:1319026394428211261>",
+      "published_at": "2024-12-23T23:09:47.459000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "video",
+          "title": "Apogea PvP Test Tournament - edfarage on Twitch",
+          "description": "edfarage went live on Twitch. Catch up on their Apogea VOD now.",
+          "url": "https://www.twitch.tv/videos/2334330749",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/dda599e4a83f3612a9b9_edfarage_45221820715_1734984183//thumb/thumb0-640x360.jpg",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1320891134599499858"
+    },
+    {
+      "message_id": "1337401141348012062",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone\nJust a quick update on the upcoming test! Here’s what you need to know:\n\n📅 I'm moving the test date to this date (hover your mouse to see specific time): <t:1740150000>\n\n🔑 **Patreon Registration:**\n- Starting today, I will be collecting all Patreon emails to grant server access for the test day.\n\n💡 **Important Info:**\n- If your Patreon subscription ends before the test date, don’t worry—you will still be able to register as long as you’re an active Patreon starting today.\n- Make sure you use the same email from Patreon when registering on Apogea\n\nThank you for your understanding, and feel free to reach out with any questions or feedback!",
+      "published_at": "2025-02-07T12:34:39.809000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1337401141100544081",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1337401141100544081/imagem3BG.png?ex=6a7873df&is=6a77225f&hm=d05eac4571b44fcd61fc7410697be80e0b4bafbc457ecae73381a3afec29ab78&",
+          "filename": "imagem3BG.png",
+          "content_type": "image/png",
+          "size": 682897,
+          "width": 1820,
+          "height": 500
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1337401141348012062"
+    },
+    {
+      "message_id": "1342512927785091163",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nServers are now live!\n\nHere's what you need to know:\n- Make sure you update your client on Steam by either **Restarting Steam**, or forcing **Integrity Check**.\n- If you are Patron and you're getting the message: \"Server is restricted for Patrons only\" please send me the email you used to register your account via private message here on Discord\n\nAnd that's it, let me know if you got any questions and have fun! 🫡",
+      "published_at": "2025-02-21T15:07:04.668000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1342512926694703165",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1342512926694703165/Announcements.png?ex=6a789798&is=6a774618&hm=ff6894c9d028187a5d6beb6d9949c26b959e27b26f49848a5129d99840efa9c8&",
+          "filename": "Announcements.png",
+          "content_type": "image/png",
+          "size": 15020987,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1342512927785091163"
+    },
+    {
+      "message_id": "1342608014556921866",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone\nWe obviously had an oversight with the closed tests where we didn't expect the reaction to be the way it was, given how the last tests went.\nFor this reason, we are planning to open the servers for everyone tomorrow, like we did all previous tests.\nThis will effectively cancel the March test and all future planned tests.\nAdditionally, I'll be offering refunds to all Patrons who dislike this decision.\nPlease let me know what you think about this.\nThank you.",
+      "published_at": "2025-02-21T21:24:55.121000+00:00",
+      "edited_at": "2025-02-21T21:25:25.535000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1342608014556921866"
+    },
+    {
+      "message_id": "1342813491827965983",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nStarting now the playtest is open for everyone.\nHave fun!",
+      "published_at": "2025-02-22T11:01:24.720000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1342813491827965983"
+    },
+    {
+      "message_id": "1345903119888023573",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone\nFirst of all, a huge thank you to all of you for being part of this Apogea test. Your support has been incredible, truly, beyond our expectations <:feelsStrongMan:1290164443220803627>\n\nThat said, you probably know what’s coming... I’m here as the harbinger of bad news. The test is coming to an end 😔\n\nDue to the overwhelming influx of new players, the current open map can no longer support everyone while maintaining a good experience.\nFor that reason, we will be shutting down the servers <t:1741014000:R> 👈  (hover your mouse to see the exact time)\n\nBut before we go, we’re keeping up with tradition! A few hours before the shutdown, I’ll be hosting a Monster Party near the Basile depot.\n**Fair warning: This will be an extremely laggy experience given the number of players, but it’s going to be one last chaotic celebration!**\n\nOnce again, thank you all for your support. See you in the next adventure!",
+      "published_at": "2025-03-02T23:38:29.452000+00:00",
+      "edited_at": "2025-03-02T23:40:47.242000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1345903118952562710",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1345903118952562710/Announcements.png?ex=6a790f75&is=6a77bdf5&hm=7d5e3d5dc8b0b659f9d6f02d1dc53190e84b0178e84802cb64f6681afa3fe734&",
+          "filename": "Announcements.png",
+          "content_type": "image/png",
+          "size": 15021000,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1345903119888023573"
+    },
+    {
+      "message_id": "1346195471214837882",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone 🚀\n\nTomorrow, <@92673746875199488> will be hosting a Q&A session on his [Twitch channel](https://www.twitch.tv/aeikztv), where we’ll answer your questions and discuss the state of Apogea along with our future plans leading up to the official launch.\n\n🕒 Event Time: <t:1741104000:R>\n\n**Here's some important info:**\n\n- If you’re a <@&1279893950496247938>  or <@&1279835655899316254> , head over to <#1346193147041943632> and drop your questions or suggestions for us to read during the stream.\n- Keep an eye on <#1273297774523191378> , where I’ll be sharing insights from the recent test, including key statistics and what we’ve learned <a:totklink_nod_112x112:1130542304252407868> \n- Got additional feedback? Share it in <#1277486918250270720>  and  <#1273289468383592491>. I **always** read everything you post there, and even though I can be stubborn, I promise to give every idea serious thought 🫡 \n\nFor any other questions, feel free to reach out to our <@&1297277291600154725> team\n\nSee you all there <:pogU:1290210909180006402>",
+      "published_at": "2025-03-03T19:00:11.440000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1346195471214837882"
+    },
+    {
+      "message_id": "1352793426936201311",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nhttps://www.youtube.com/watch?v=7VslC8fdVUA",
+      "published_at": "2025-03-21T23:58:06.668000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "video",
+          "title": "Thank you",
+          "description": null,
+          "url": "https://www.youtube.com/watch?v=7VslC8fdVUA",
+          "color": 16711680,
+          "author_name": "Ed Farage",
+          "thumbnail": "https://i.ytimg.com/vi/7VslC8fdVUA/sddefault.jpg",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1352793426936201311"
+    },
+    {
+      "message_id": "1372011281610969129",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nHello 👋 \n# I'm announcing the next test date: <t:1749222000>\nI was wrong about it being on may, but, we need this extra time to make sure we can deliver what we promised <a:totklink_nod_112x112:1130542304252407868> \nThis next test will last longer than other tests - we don't know exactly how long, but it's going to be at least one full week or more.\nI am going to give more information in the upcoming days, but for now, I hope these news can give you a bit of peace and help with preparation.\nAnd as always, thank you for everything.",
+      "published_at": "2025-05-14T00:43:00.273000+00:00",
+      "edited_at": "2025-05-14T00:43:31.625000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1372011280591749212",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1372011280591749212/Announcements.png?ex=6a7875d4&is=6a772454&hm=716e353148c66d541188bbb72f89613616cefc5f70f6226ea8ef8fd56d217024&",
+          "filename": "Announcements.png",
+          "content_type": "image/png",
+          "size": 15021000,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1372011281610969129"
+    },
+    {
+      "message_id": "1379517218517286955",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nHey everyone, just letting you know that the upcoming test will be delayed for a couple of days - maybe more. Am currently sick and resting, so my productivity went down by a lot. I'm not that sick, but it's enough that I have to type this on my phone on the bed.\nThe test's content is mostly done, but not there yet, so I can't guarantee that it will be out on the planned date.\nI will announce the next date soon, hopefully you can understand.\nCheers",
+      "published_at": "2025-06-03T17:48:55.085000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1379517218517286955"
+    },
+    {
+      "message_id": "1381038063936999505",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nI'm feeling a lot better and have finished 90% of what's needed for the upcoming test.\n# So, here's the new test date: <t:1749826800>\nAlso, thank you for all the get well messages, it's awesome to see that you guys were understanding 🫡",
+      "published_at": "2025-06-07T22:32:12.889000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1381038063936999505"
+    },
+    {
+      "message_id": "1382887105847492648",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nHello!\nDue to my sleep schedule being a little odd (It got screwed over when I got sick) I need to change when the servers will be online, (roughly 8 hours after planned)\n# Here's the countdown for opening the servers: <t:1749855600:R>\nThis will also allow the mods to test everything while I sleep, to make sure there are no glaring bugs.\nAnd that's it! Hope you're all ready for the test and I'll see you then 🫡",
+      "published_at": "2025-06-13T00:59:38.834000+00:00",
+      "edited_at": "2025-06-13T01:02:59.335000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1382887105847492648"
+    },
+    {
+      "message_id": "1383226041195171980",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Hold tight guys, we're doing some unexpected maintenance",
+      "published_at": "2025-06-13T23:26:27.318000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1383226040939188234",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1383226040939188234/hiatus.png?ex=6a790ca3&is=6a77bb23&hm=a73eed8b26c168483296de0ff0776f2c27d126aec0e19ab4b109871e673656a5&",
+          "filename": "hiatus.png",
+          "content_type": "image/png",
+          "size": 52611,
+          "width": 525,
+          "height": 300
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383226041195171980"
+    },
+    {
+      "message_id": "1383232342675685376",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nServers are now online - If you requested access to play, you should receive an email very shortly\nThank you for your patience 🫡",
+      "published_at": "2025-06-13T23:51:29.708000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1383232341832634499",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1383232341832634499/image.png?ex=6a791281&is=6a77c101&hm=1531c41f4f9da080a1f145007ea1740eb37778e021f0ad2d5830a09f9ec72832&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 15021000,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383232342675685376"
+    },
+    {
+      "message_id": "1383247145594912830",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "FYI We're aware of the login issue, we're currently investigating it. \nSorry that most of you can't login right now, we'll tag everyone once the issue has been fixed",
+      "published_at": "2025-06-14T00:50:18.999000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383247145594912830"
+    },
+    {
+      "message_id": "1383273570116960306",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nIt seems our login issues have been resolved, it's still a bit slow but now you can login!\nIf you're having issues with your code, please remember that it expires in 5 minutes, so you must request a new one if it doesn't arrive.\nAdditionally, if you get a \"account not found\" - it could mean the above issue, so just try again patiently.\nThank you for your patience and have fun!",
+      "published_at": "2025-06-14T02:35:19.096000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383273570116960306"
+    },
+    {
+      "message_id": "1383277702110253127",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "I might have spoken too soon, login issues are back <:monkaStop:1289718950711787551>",
+      "published_at": "2025-06-14T02:51:44.240000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383277702110253127"
+    },
+    {
+      "message_id": "1383370554173689987",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nNew patch is up! We also seem to have resolved most issues regarding account creation, code mailing and login issues.\nI apologize for such a rough test day one, but this why this is called a stress test, am I right? Haha <:doomed:1289735819573334140> \nThank you again for your patience and have fun in Apogea 🫡",
+      "published_at": "2025-06-14T09:00:41.897000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383370554173689987"
+    },
+    {
+      "message_id": "1383955170462924843",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "It seems like we're getting DDoSed right now, that is the reason for the server instability.\nWe're looking into it <a:NOTED:1306336717481185281> \nWill tag everyone once issue has been resolved",
+      "published_at": "2025-06-15T23:43:45.282000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1383955170462924843"
+    },
+    {
+      "message_id": "1384330883317764201",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "DDoS again, issue has not been resolved",
+      "published_at": "2025-06-17T00:36:42.207000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1384330883317764201"
+    },
+    {
+      "message_id": "1384353907509035158",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nThe attacks are still ongoing and have no real sign of stopping. \n# For now the servers are not accessible (you can stop trying) until our Server Admin is back online.\n~~If you are playing on EU, logging out will not allow you to log back in.~~\nEU is also down, all servers are down till we solve this\nWe have no real clue why this is happening or the reason, but we're working to get it resolved.",
+      "published_at": "2025-06-17T02:08:11.602000+00:00",
+      "edited_at": "2025-06-17T04:50:56.895000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1384353907509035158"
+    },
+    {
+      "message_id": "1384448062331687035",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Just a quick update: The attacks have not stopped, we are developing security solutions to circumvent this since it seems whoever's doing this is very determined.\nWill tag everyone once we think its safe to open the servers again.\nI would also like to thank everyone who's trying to help, it has been very useful 🫡",
+      "published_at": "2025-06-17T08:22:19.861000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1384448062331687035"
+    },
+    {
+      "message_id": "1384560121476284416",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nThe servers are back online.\n# Please note the DDoS attacks are still happening\n**So you might experience some bumps here and there, be warned.**\n\nI would like to also use this opportunity to ask all of you to help us with the game!\nYou can do that by leaving a <#1273289468383592491>\nor by <#1289251591769297069>  \nThese things really help us and I read all feedback <a:cat_yes:1317383467859836969> \n\nAlso, if you think Apogea is the game that you will definitely play once its released, you can support our [Patreon](https://patreon.com/Apogea)\n\nBeing a Patron gives you many benefits (other than helping us develop the game faster)\n- Access to our in-house editor to create your own maps\n- Exclusive Access to channels here on Discord\n- Cosmetic rewards on Launch\n- Premium Time once the game launches (only for Tier 2)\n\nAnd that's it, have fun in the game and thank you for your patience 🫡",
+      "published_at": "2025-06-17T15:47:36.843000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "article",
+          "title": "Get more from Apogea on Patreon",
+          "description": "Help us make the game faster!",
+          "url": "https://patreon.com/Apogea",
+          "color": 1250067,
+          "author_name": null,
+          "thumbnail": "https://c7.patreon.com/https%3A%2F%2Fwww.patreon.com%2F%2Fcard-teaser-image%2Fcreator%2F12743161%3Fc=926336622716279384/selector/%23creator-teaser%2C.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1384560121476284416"
+    },
+    {
+      "message_id": "1384582570850783283",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nThere's a new North America server you can join if the other one is full.\nIt should be accessible in a few minutes\n\nIf you died during the server DDoS, please tag me here so I can compensate you when I'm back (I'll be leaving shortly)\nIf you need any help, please contact a <@&1297277291600154725>",
+      "published_at": "2025-06-17T17:16:49.191000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1384582570578018424",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1384582570578018424/image.png?ex=6a78b601&is=6a776481&hm=8b2de9010114b7386dff5fc49eea9b8cd346704afa0c442f33d5737d57ca9377&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 578422,
+          "width": 1595,
+          "height": 877
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1384582570850783283"
+    },
+    {
+      "message_id": "1385474938286374915",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Please paste your **character name** from Norduno that got rolled back here",
+      "published_at": "2025-06-20T04:22:46.167000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1385474938286374915"
+    },
+    {
+      "message_id": "1386236468585828474",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nHello 👋 \n\n# Since the past few days have been very good in terms of testing, we have decided to extend the tests beyond monday.\nThere is no exact date for when the tests will end, but I will warn you all **at least 3 days** prior before it closes\n\nAs always, if you want to help the game, please leave us a <#1273289468383592491> or do some <#1289251591769297069> in the correct channels - messaging me in private is not good because I will forget about it <a:cat_yes:1317383467859836969> \n\nAlso I personally want to thank everyone that has been helping us debug and break the game, it has been of immense help, highly appreciate it.\n\nAdditionally, If you're part of the people that got rolled back in **Norduno** and haven't received compensation, please DM me with your **Character Name** once you're **Online**!\n\nAnd that's it, have fun in Apogea 🫡",
+      "published_at": "2025-06-22T06:48:49.139000+00:00",
+      "edited_at": "2025-06-22T06:51:11.052000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1386236467805945861",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1386236467805945861/image.png?ex=6a78cb90&is=6a777a10&hm=bc34b34b4dd3e6ba1b39b46a9eb7ca445a99cc4a01251735a80b2f8c4ef9ade0&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 15021000,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1386236468585828474"
+    },
+    {
+      "message_id": "1387009181118369833",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nFirst of all, I want to thank you all for helping us during this test. All of the feedback and bug reports have been amazing <:pepepray:1289719258967834767> \nWith that said, I am announcing the end of the test!\n# We will be shutting down the servers <t:1751036400:R>\n\nAdditionally, as a way of thanking the most hardworking of all of you, **I will be gifting the top 3 players of all servers with a Tier 2 Patreon sub**, which can be converted to Premium once the game launches.\n\nOn a similar note, check out our improved website: https://apogea.online - where you can see everyone that is streaming this test <:pogU:1290210909180006402> \n\nOh and more news are coming soon about the next test! Keep an eye on <#1273297774523191378> and <#491750954753064960> \n**And more importantly, don't mute the Discord 👀**\n\nAnd that's it! Thank you for being part of Apogea 🫡",
+      "published_at": "2025-06-24T09:59:18.163000+00:00",
+      "edited_at": "2025-06-27T12:22:20.075000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1387009182632378438",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1387009182632378438/image.png?ex=6a78f836&is=6a77a6b6&hm=0df5cf0758b55bd9fff7096dbc1ab6b52d6862add897174a21c5ea6b504c939e&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 17054581,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1387009181118369833"
+    },
+    {
+      "message_id": "1391096043457740881",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone\nHope you're all doing great!\n\n# Just a quick heads-up: tomorrow <t:1751821200> I'll be doing a live chat with <@251555953596563457> on his [Twitch channel](https://www.twitch.tv/klean)\nIf you have questions or just want to show your support, feel free to stop by! We'd love to have you there <a:cat_yes:1317383467859836969> \n\nAlso, while I have your attention:\nIf there are any  <#1277486918250270720>  that I haven’t seen yet and you think deserve a look, please** tag me in the suggestion**. I’ll make sure to check it out 🫡 \n\nSee you soon!",
+      "published_at": "2025-07-05T16:39:02.075000+00:00",
+      "edited_at": "2025-07-05T16:40:22.716000+00:00",
+      "embeds": [
+        {
+          "type": "video",
+          "title": "Klean - Twitch",
+          "description": "Lover of indie games and niche hardcore gaming experiences. Content Creator, Freelance Game Designer and Game Marketing Strategist. klean@mythictalent.com",
+          "url": "https://www.twitch.tv/klean",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://static-cdn.jtvnw.net/jtv_user_pictures/82dc2397-e289-4e7c-bd59-471e6612a6f3-profile_image-300x300.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1391096043457740881"
+    },
+    {
+      "message_id": "1392446014300094505",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "If you missed it, he posted an edited version in his youtube channel <a:cat_yes:1317383467859836969> \nhttps://www.youtube.com/watch?v=sKwU9MnLhw4",
+      "published_at": "2025-07-09T10:03:20.205000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "video",
+          "title": "Apogea Q&A With Lead Developer",
+          "description": "Apogea is one of my favourite MMO's! It brings back so many feelings that only the original Runescape, Tibia and World of Warcraft Classic could create. I was fortunate enough to interview the Lead Developer for this project and got some really good insight for the entire project! \n\nHope you enjoy the video!\n\nhttps://www.twitch.tv/klean\nhttps://...",
+          "url": "https://www.youtube.com/watch?v=sKwU9MnLhw4",
+          "color": 16711680,
+          "author_name": "Klean",
+          "thumbnail": "https://i.ytimg.com/vi/sKwU9MnLhw4/maxresdefault.jpg",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1392446014300094505"
+    },
+    {
+      "message_id": "1394315825158295635",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nI did a poll asking for whether or not you would be okay with having a Patreon exclusive server for next tests\n\nYou can check them out [here (For Patrons)](https://discord.com/channels/358965624107696128/1389529516329668618/1394062386507415664) and [here (For Settlers)](https://discord.com/channels/358965624107696128/1291515340437848064/1394071974690553988)\nBased on what you've replied and voted so far, I am inclined to do the following:\n- We will open two servers for each region (North America, South America, Europe) **based on demand**\n- These alternative servers will be Patreon-only for **one day** during the first day of tests\n- To dictate demand, I will make a poll under this post for voting <a:NOTED:1306336717481185281> \n\nHere's a few points people have asked:\n- **What if there is no demand for my region?**\n  - Then your region will have one available server that is free for all\n- **Are these servers permanent till launch?**\n  - No, these are only for the next test\n- **Can I still play on day one without paying?**\n  - Yes! All regions will have at least one free for all server\n- **How many tests will there be still?**\n  - Hopefully the next test will be the last one, if everything goes as expected\n\n# I believe this decision ensures **everyone** can play during tests, with or without Patreon, while also giving a small reward for those that are supporting the project\n\nPlease let me know if you think this is a good decision, I will open up a thread for discussion here as well 🫡 \n\n**Additionally** 👀 \nI would like to invite all more-than-one-language speakers <:plflag:1325588111857684490> <:brflag:1325587532326637638> <:deflag:1325588108871335946> <:espflag:1325588110217842780>  to assign yourself a role in 👉  https://discord.com/channels/358965624107696128/1318699105421103225\nSo that I can tag you for news about the game in your language <a:cat_yes:1317383467859836969> \n\nAnd that's it! I know the wait is a bit painful, but we're getting there!",
+      "published_at": "2025-07-14T13:53:17.853000+00:00",
+      "edited_at": "2025-07-19T22:04:04.476000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1394315825158295635"
+    },
+    {
+      "message_id": "1394316092952018965",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "",
+      "published_at": "2025-07-14T13:54:21.700000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1394316092952018965"
+    },
+    {
+      "message_id": "1401551032340709499",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "hey @everyone \nHope you're doing fine!\n\nI'm here to give you some light on the development for the game, to say that it's been going very well <a:cat_yes:1317383467859836969> \nSo we might have the next test be open in a couple of months! However, as always, please remember that these are just estimates and are hard to pinpoint (which is why there is no decided date yet)\n\n# <:brflag:1325587532326637638> Tambem gostaria de convidar o pessoal que fala <@&1325581524619366512> pra ficar de olho no [canal](https://www.twitch.tv/hkleins) do <@997635224311713852>\nOnde eu vou fazer uma conversa nesse horário: <t:1754341200> pra falar um pouco dos nosso planos e tirar dúvidas, então, se tiver algo que vc quer perguntar lá, é só postar aqui: https://discord.com/channels/358965624107696128/1401537734522437714\n\nOh and also I'm doing a talk with with <@266624610877964299> in [his channel](https://www.twitch.tv/bybsie) while streaming some art in [my channel](https://www.twitch.tv/edfarage) with special guest <@420002932910587915> and <@92673746875199488> - check it out if you want <:poggin:1289734879545655357> \n\nAnd that's it! Please let me know if there's something missing that you'd like to see 🫡",
+      "published_at": "2025-08-03T13:03:25.669000+00:00",
+      "edited_at": "2025-08-03T15:09:02.685000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1401551032487514243",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1401551032487514243/imagem3BG.png?ex=6a787a9d&is=6a77291d&hm=2affb4712d4414c75c7af554b98d338ecfd97f8bf6e68f8f1ef5bd14fe6fda4b&",
+          "filename": "imagem3BG.png",
+          "content_type": "image/png",
+          "size": 682897,
+          "width": 1820,
+          "height": 500
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1401551032340709499"
+    },
+    {
+      "message_id": "1404173676601016432",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "If you missed any of the above, you can check them out below on Youtube 👇 \nhttps://www.youtube.com/watch?v=5dDpzEoi0ko\nhttps://www.youtube.com/watch?v=5f61fqO297g",
+      "published_at": "2025-08-10T18:44:52.787000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "video",
+          "title": "Entrevista com ED Desenvolvedor do Apogea!",
+          "description": "Bati um papo sem filtro com o ED, criador do Apogea, e trouxe novidades quentíssimas sobre o futuro do MMORPG brasileiro! Tem muita informação inédita, respostas sinceras e até algumas revelações preocupantes que vão mexer com a comunidade. Se você quer saber tudo o que realmente está rolando nos bastidores do Apogea, esse vídeo é ob...",
+          "url": "https://www.youtube.com/watch?v=5dDpzEoi0ko",
+          "color": 16711680,
+          "author_name": "HKlein",
+          "thumbnail": "https://i.ytimg.com/vi/5dDpzEoi0ko/maxresdefault.jpg",
+          "image": null
+        },
+        {
+          "type": "video",
+          "title": "MMORPG Talk with Arieswar, Aeikz, Bybsie and Ed",
+          "description": "We yap",
+          "url": "https://www.youtube.com/watch?v=5f61fqO297g",
+          "color": 16711680,
+          "author_name": "Ed Farage",
+          "thumbnail": "https://i.ytimg.com/vi/5f61fqO297g/maxresdefault.jpg",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1404173676601016432"
+    },
+    {
+      "message_id": "1422372687271039137",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Hey everyone, just letting you know that you should not worry, the development is going fine.\nThe reason for our disappearing is that this time around our workload is a bit bigger than expected, mainly due to the fact we're pushing a bit further towards game completion.\nHopefully you can understand this and I appreciate those of you that have been patient.\nSoon enough we will have a more solid ground to announce the test's date.\nDon't lose hope, we're getting there <:pepepray:1289719258967834767>",
+      "published_at": "2025-09-30T00:01:15.052000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1422372687271039137"
+    },
+    {
+      "message_id": "1444046402358612040",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "-# @everyone \nI'm announcing the test date:\n# <t:1768575600>\n\n**If you're wondering why such a late date, please read this 👇 **\n\nI know the wait has been hard and asking for these extra days sounds rough, but unfortunately we need the time to make sure all of the new content we added is working properly and is polished, because this time we added a lot of new things.\n\nJust to give a bit of reference, we essentially **doubled **the amount of items and map size while adding multiple new mechanics and traits to the game.\nWe thought it was the correct timing due to how well last test went, so we're pushing to get the game semi-ready for release, making this upcoming test very likely the final one, where we just make sure everything's working as intended, before going live officially.\n\nSo, a few weeks before this test I will do yet another announcement to give instructions for Patrons on how to connect to the day-first-exclusive servers. \n(*All Patrons that subbed on: **June, July, August, September, October, November, December or January** will be eligible for that.*)\n\nOn that note, me and the team want to **thank all the Patrons that have been supporting us still and have not given up on Apogea!** \nYour help has been incredible and has allowed us to add this ton of new content to the game, without you, things would have been a lot of different.\n\nAnd that's it, sorry to keep you waiting and I'm looking forward to share everything we've made so far with you. \nDon't lose hope, Apogea is coming soon!\n\n||Also I'm leaving you with a tiny spoiler of a new area that I just think is cool||",
+      "published_at": "2025-11-28T19:24:51.407000+00:00",
+      "edited_at": "2025-11-28T23:26:18.497000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1444046402094108793",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1444046402094108793/SPOILER_image.png?ex=6a78d403&is=6a778283&hm=432e9deed184fb47ac97054351a18264eaf722aff878dca73aeb6c1066283a1c&",
+          "filename": "SPOILER_image.png",
+          "content_type": "image/png",
+          "size": 3048973,
+          "width": 1637,
+          "height": 794
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1444046402358612040"
+    },
+    {
+      "message_id": "1459632661164327161",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone\n**Tests are coming!**\nRight now, based on demand, we will open the following servers:\n\nDuvento: **North America 1** – Patreon Day 1 Only Server\nNorduno: **North America 2** – Free-for-All Server\nEuruno: **Europe** – Free-for-All Server\nLunero: **Asia** – Free-for-All Server\nOrduno: **South America** – Free-for-All Server\n\nYou will be able to create your account once the game is available to download on Steam.\n**To download the game, you must request access to the playtest via the [Steam Page](https://store.steampowered.com/app/2796220/Apogea/).**\nJust to be clear, the game isn't available to download right now, I will announce it soon 👈 \n\n# Here's some info about the Patreon Day 1 Server 👇 \nIf you plan to play on **North America 1 (Duvento)**, simply register your in-game account using the **same email** as your [Patreon](https://www.patreon.com/c/Apogea) account.\n\nIf you plan on playing on **any other server**, you **do not** need to be a Patron, nor use the same email.\n\nPS: If you wish to use a **different email** for Duvento, please message me **on Patreon**, and I’ll add it to the whitelist.\n\nI’ll announce the exact server opening time here soon. 🫡\n\n# Gentle reminder that all servers will open **at the same time**",
+      "published_at": "2026-01-10T19:39:05.085000+00:00",
+      "edited_at": "2026-01-10T22:32:40.194000+00:00",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Apogea",
+          "description": "Apogea is a medieval fantasy massively online multiplayer role\\-playing game \\(MMORPG\\) where you can immerse yourself in a seamless and intricate world brimming with secrets, quests, dangers, and, most importantly, other players\\.\n\n\nWe believe in a __**\"not pay to win\"**__ philosophy, ensuring that all players have an equal opportunity to succeed based o…",
+          "url": "https://store.steampowered.com/app/2796220/Apogea/).**",
+          "color": null,
+          "author_name": null,
+          "thumbnail": null,
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796220/header.jpg?t=1741002410"
+        },
+        {
+          "type": "article",
+          "title": "Get more from Apogea on Patreon",
+          "description": "Help us make the game faster!",
+          "url": "https://www.patreon.com/c/Apogea",
+          "color": 1184274,
+          "author_name": null,
+          "thumbnail": "https://c7.patreon.com/https%3A%2F%2Fwww.patreon.com%2F%2Fcard-teaser-image%2Fcreator%2F12743161%3Fc=-2684115124344787368/selector/%23creator-teaser%2C.png",
+          "image": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": "1459632661273514115",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1459632661273514115/image.png?ex=6a78d759&is=6a7785d9&hm=951838d031697da3ff958e5ed76172a57a7823b9024a92814db167187da84f3d&",
+          "filename": "image.png",
+          "content_type": "image/webp",
+          "size": 63386,
+          "width": 819,
+          "height": 144
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1459632661164327161"
+    },
+    {
+      "message_id": "1461754941457825805",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nServers are now online and Patreon emails have been whitelisted.\n\nIf you cannot login using your Patreon email, please send me a message on [Patreon](https://www.patreon.com/Apogea)\n\nI want to point out that we **will **open the following servers by region** if that region becomes full:**\n- Nostrio (North America)\n- Echelon (Europe) [Patreon-day-1]\n\nI also want to ask everyone to use  <#1289251591769297069> and <#1273289468383592491> so that we can improve the game\nThank you and have fun!\n\n# If you didn't have access to the game on steam, you will receive an email shortly!",
+      "published_at": "2026-01-16T16:12:16.137000+00:00",
+      "edited_at": "2026-01-16T16:16:06.073000+00:00",
+      "embeds": [],
+      "attachments": [
+        {
+          "id": "1461754942027993195",
+          "url": "https://cdn.discordapp.com/attachments/491750954753064960/1461754942027993195/image.png?ex=6a78a6e0&is=6a775560&hm=dd4f02bbf206e4536cb5fb71f7f461394ad72eadd41343545b1d5a3e8a8032b9&",
+          "filename": "image.png",
+          "content_type": "image/png",
+          "size": 3100324,
+          "width": 3840,
+          "height": 2160
+        }
+      ],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461754941457825805"
+    },
+    {
+      "message_id": "1461759510032154813",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "PS: We are aware of the **Recovery Account** Issues, we're working to fix it 🫡",
+      "published_at": "2026-01-16T16:30:25.370000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461759510032154813"
+    },
+    {
+      "message_id": "1461782290136043702",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "We're opening a new server for Europe: Echelon",
+      "published_at": "2026-01-16T18:00:56.570000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461782290136043702"
+    },
+    {
+      "message_id": "1461786624072613960",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "",
+      "published_at": "2026-01-16T18:18:09.861000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461786624072613960"
+    },
+    {
+      "message_id": "1461786672357179587",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nWe're gonna do maintenance in a few minutes to fix a few server and map issues.\nWe noticed that the Patreon servers are not that full - <@&1279835655899316254> & <@&1279893950496247938> Would you like for me to turn **off** the Patreon exclusive for your servers? (EU and NA)\nPlease vote above🫡",
+      "published_at": "2026-01-16T18:18:21.373000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461786672357179587"
+    },
+    {
+      "message_id": "1461801463507583213",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "We're opening a new server for North America: Nostrio",
+      "published_at": "2026-01-16T19:17:07.858000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461801463507583213"
+    },
+    {
+      "message_id": "1461801733293609061",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "",
+      "published_at": "2026-01-16T19:18:12.180000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "poll_result",
+          "title": null,
+          "description": null,
+          "url": null,
+          "color": null,
+          "author_name": null,
+          "thumbnail": null,
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461801733293609061"
+    },
+    {
+      "message_id": "1461805750702702613",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone If you're having the issue of your character looping in login screen (going in and out with a blackscreen) \n# You need to update your Windows Clock to the correct time\nThis causes a desync with the server and it times you out.",
+      "published_at": "2026-01-16T19:34:10.005000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461805750702702613"
+    },
+    {
+      "message_id": "1461848434280501605",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "We're are still fixing the mailer issues, I apologize for such bad performance - we were confident our new mailer would work but unfortunately it didn't\nThere is no real ETA yet for when the issue is fixed, but know that we're working hard on it 🫡",
+      "published_at": "2026-01-16T22:23:46.563000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1461848434280501605"
+    },
+    {
+      "message_id": "1462051147291431047",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "New Account creation is temporarily disabled until we figure out the mailer issue",
+      "published_at": "2026-01-17T11:49:17.111000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1462051147291431047"
+    },
+    {
+      "message_id": "1462071932110377052",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "If you're getting a message with \"Account Not Found\" or \"Email Validation Failed\" after receiving a validation code, try re-logging and inputting the same code - seems to do the trick for most people",
+      "published_at": "2026-01-17T13:11:52.598000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1462071932110377052"
+    },
+    {
+      "message_id": "1462115134049747035",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nA new patch is going in very shortly.\nWe detected a few issues with houses that require your attention, if you have a house, please pick up your furniture from the floor (items are fine, just furniture) so it doesn't get deleted. This will be fixed after the patch 2.7.0\nAdditionally, it seems our mailer issues have been resolved - for now - we will turn on account creation back on shortly\nOh and, starting from now Duvento is no longer Patreon-exclusive; Fulfilling the 24-hour promise\nThank you all for your patience and have fun in Apogea 🫡",
+      "published_at": "2026-01-17T16:03:32.743000+00:00",
+      "edited_at": "2026-01-17T16:23:14.067000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1462115134049747035"
+    },
+    {
+      "message_id": "1463305865825095731",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nPlease update your Apogea Client to 2.7.9 whenever possible to avoid a major bug that will crash it if you go too far east.\n\nAdditionally, I would like to use this opportunity to ask you to leave a <#1273289468383592491> and to do some <#1289251591769297069> in the correct channels!\nI know that DMing me might sound like a good idea, but I have too many DM's and I will forget about it!\n\n~~Also please be careful with your full bags, there is a bug where items are dropping on the floor~~\nShould be fixed now <:poggin:1289734879545655357> \n\nThank you all and I hope you've been having fun in the game 🫡",
+      "published_at": "2026-01-20T22:55:05.321000+00:00",
+      "edited_at": "2026-01-21T00:36:09.132000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1463305865825095731"
+    },
+    {
+      "message_id": "1464799164335395032",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "I'm aware things are broken, please wait till I figure this out",
+      "published_at": "2026-01-25T01:48:55.430000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1464799164335395032"
+    },
+    {
+      "message_id": "1465859973207687250",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "<@&1325581524619366512> <@&1325581915385892924> <@&1325583641706762341> <@&1325583341612957829> \nThe new client has an issue with translated language where it doesn't load the game properly. I'm pushing a hotfix shortly",
+      "published_at": "2026-01-28T00:04:11.974000+00:00",
+      "edited_at": "2026-01-28T00:04:21.212000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1465859973207687250"
+    },
+    {
+      "message_id": "1466104295312326811",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Update to version 2.9.5 to fix the Auto Loot Issue",
+      "published_at": "2026-01-28T16:15:02.903000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1466104295312326811"
+    },
+    {
+      "message_id": "1467993382889590929",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \n# I'm ending the playtest in this date: <t:1770476400>\n\nStarting Patch **3.0.8** PvP will be forcefully enabled; You will not lose Exp or Items when dying\n\nEdit: Each  🤡  react shortens the playtest timer by 1 minute <:PepeSneakyEvil:1299415201245958194>\nEdit2: Each  ❤️  react adds to the playtest timer by 1 minute <:poggies:1289735661007405166>",
+      "published_at": "2026-02-02T21:21:36.479000+00:00",
+      "edited_at": "2026-02-06T19:29:34.733000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1467993382889590929"
+    },
+    {
+      "message_id": "1468713964576706748",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nDue to overwhelming amount of likes on the above post, and specially to spite the clown reacters, I'm extending the test to this date:\n# <t:1770649200>\nThank you and have fun 🫡",
+      "published_at": "2026-02-04T21:04:56.541000+00:00",
+      "edited_at": "2026-02-04T21:05:08.091000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1468713964576706748"
+    },
+    {
+      "message_id": "1469826310711804219",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nIn about **15 minutes **I will turn on PvP on All Servers\n**You will not lose Exp or Items on Death.**\nLevel 15 and under will not have PvP enabled, but will not lose items or exp either\nAdditionally, starting now, the servers will go down <t:1770649200:R>\nThank you all for helping us test Apogea and I hope you had fun doing so 🫡\n\nOh and I will announce the rewards for the top players of all servers very soon, you check the Leaderboard snapshot here: https://discord.com/channels/358965624107696128/1273297774523191378/1469827045063393392",
+      "published_at": "2026-02-07T22:45:00.526000+00:00",
+      "edited_at": "2026-02-07T23:00:28.574000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1469826310711804219"
+    },
+    {
+      "message_id": "1470185758714232913",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "",
+      "published_at": "2026-02-08T22:33:19.608000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1470185758714232913"
+    },
+    {
+      "message_id": "1470362930133340305",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "I'll be doing the Q&A <t:1770656400:R> in <@434235615643435010> [twitch channel](https://www.twitch.tv/anugy)\nI'll give priority to a few questions from the thread above and let anugy select what he thinks is important from his chat\nHope to see you there 🫡",
+      "published_at": "2026-02-09T10:17:20.566000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "link",
+          "title": "anugy - Twitch",
+          "description": "WORLD FIRST HR WARLORD SOLO ⚔️ | 27 / Viet / insurance agent / stay-at-home cat dad / underground real estate developer",
+          "url": "https://www.twitch.tv/anugy",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://static-cdn.jtvnw.net/jtv_user_pictures/68f58b4c-370e-48e9-9613-0e84c2ad8a7e-profile_image-300x300.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1470362930133340305"
+    },
+    {
+      "message_id": "1472973236701630597",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nHope you're doing well. I apologize for the lack of news on the past week, but I'm excited to share new things with you all.\n\nFirst, I would like to ask you to **beta test** our new [Forum](https://www.apogea.online/community), where you can use your Apogea account to make posts about all sorts of things. \nPlease be aware It's a very simple website still, though it already feels (at least to me) much better in terms of organizing and filtering things in a way that's relevant for Apogea.\nYou can check it out here: https://www.apogea.online/community\n\nSecondly, I will kindly ask for all the **top 5** leaderboard players from last test to DM me here on Discord, I'll open my DM's again - So we can discuss your prize.\nYou can check out the leaderboards here: https://discord.com/channels/358965624107696128/1273297774523191378/1469827045063393392\n\nFinally, I have pushed a new Editor Build all Patrons can check out here: https://discord.com/channels/358965624107696128/1388963467192569856\n\nOh and I'm also doing another Q&A very soon once I'm 100% recovered from my very well-timed flu <:sicko:620629092521476115> \nWill post more info here a few days before it happens, same as I did with the last one.\n \nAnd that's it, thank you for being an amazing community 🫡",
+      "published_at": "2026-02-16T15:09:46.149000+00:00",
+      "edited_at": "2026-02-16T15:14:11.049000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1472973236701630597"
+    },
+    {
+      "message_id": "1479169640486797313",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "I'm gonna be streaming in 30 minutes (https://twitch.tv/edfarage) to answer some questions and revise the [Trait Changes](https://discord.com/channels/358965624107696128/1273297774523191378/1476017791168675881)\nI'll also be chatting with <@987352529442574398> in his [Twitch Channel](https://www.twitch.tv/ode2whirl)\nBe there if you care about balance or if you wanna ask me some questions 🫡",
+      "published_at": "2026-03-05T17:32:03.935000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "link",
+          "title": "EdFarage - Twitch",
+          "description": "EdFarage streams live on Twitch! Check out their videos, sign up to chat, and join their community.",
+          "url": "https://twitch.tv/edfarage",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3dabf48-9ee1-4567-9e89-e1c8cedb912f-profile_image-300x300.png",
+          "image": null
+        },
+        {
+          "type": "video",
+          "title": "ode2whirl - Twitch",
+          "description": "(:",
+          "url": "https://www.twitch.tv/ode2whirl",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ee86db5-5883-433e-94c8-ffef56e23b83-profile_image-300x300.jpeg",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1479169640486797313"
+    },
+    {
+      "message_id": "1506025927279247380",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "Hey everyone, hope you're all doing well!\n\nOn <t:1779555600>, I'll be streaming on https://twitch.tv/edfarage alongside other developers to test new traits and talk about some important updates regarding the game.\n\nI'll mainly be discussing the next test and how it will differ from the previous ones. Since we're getting closer to launch, this next test will be more technical-focused in order to avoid spoilers.\n\nSo if you have any questions, feel free to stop by and ask them live during the stream.\n\nAnd that’s it!\nI also want to thank you all for the faith and support you've given us so far, you won't regret it 🫡",
+      "published_at": "2026-05-18T20:09:21.672000+00:00",
+      "edited_at": null,
+      "embeds": [
+        {
+          "type": "video",
+          "title": "EdFarage - Twitch",
+          "description": "EdFarage streams live on Twitch! Check out their videos, sign up to chat, and join their community.",
+          "url": "https://twitch.tv/edfarage",
+          "color": null,
+          "author_name": null,
+          "thumbnail": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3dabf48-9ee1-4567-9e89-e1c8cedb912f-profile_image-300x300.png",
+          "image": null
+        }
+      ],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1506025927279247380"
+    },
+    {
+      "message_id": "1532834613460996349",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nStarting now you can access our PvP test <:pogU:1290210909180006402> \nAll characters in this test are frozen, meaning whenever you relog, the character is reverted back to its original level, items, traits, etc.\nBecause of this, there is only one account:\n\n**Login:**\n- apogna\n\n**Password:**\n- ap0geA!\n\nAdditionally, in this test, killing players will give you experience.\nPlease remember this is not a gameplay test, we're testing server providers, optimization and mechanics (specially PvP)\nGentle reminder that this test is **not** for new players, there is no tutorial because it assumes you know how to play the game\n\nAlso, please use the <#1273289468383592491> and <#1289251591769297069> / <#1464611794298601594>  channels <a:cat_yes:1317383467859836969> \n\nThat's it, have fun!",
+      "published_at": "2026-07-31T19:37:30.539000+00:00",
+      "edited_at": null,
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1532834613460996349"
+    },
+    {
+      "message_id": "1533243611880095925",
+      "channel_id": "491750954753064960",
+      "channel_name": "announcements",
+      "author": {
+        "id": "258018973696655364",
+        "username": "edfarage",
+        "display_name": "ed",
+        "avatar": "https://cdn.discordapp.com/avatars/258018973696655364/224fbe12066230ac863d7131629657ee.png?size=128"
+      },
+      "content": "@everyone \nWe added two new servers for ping purposes:\n\n# South America:\n**Login:**\n- apogsa\n**Password:**\n- ap0geA!\n\n# Europe:\n**Login:**\n- apogeu\n**Password:**\n- ap0geA!\n\nSame deal, use the above credentials to log-in.\nAlso, I want to make clear this test will be very short, tomorrow is probably the last day.\nThank you for the support so far, we've made good progress 🫡",
+      "published_at": "2026-08-01T22:42:43.361000+00:00",
+      "edited_at": "2026-08-01T22:42:52.821000+00:00",
+      "embeds": [],
+      "attachments": [],
+      "source_url": "https://discord.com/channels/358965624107696128/491750954753064960/1533243611880095925"
+    }
+  ]
+}
