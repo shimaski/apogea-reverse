@@ -17,6 +17,7 @@ import json
 import os
 import sys
 import time
+import base64
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
@@ -43,10 +44,29 @@ def build_url(path, params=None):
 
 def api_get(token, path, params=None, retries=4):
     url = build_url(path, params)
+    props = {
+        "os": "Windows", "browser": "Chrome", "device": "",
+        "system_locale": "pt-BR", "browser_user_agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "browser_version": "151.0.0.0", "os_version": "10",
+        "referrer": "", "referring_domain": "", "search_engine": "",
+        "release_channel": "stable", "client_build_number": 589596,
+        "client_event_source": None,
+    }
+    xprops = base64.b64encode(
+        json.dumps(props, ensure_ascii=False).encode("utf-8")
+    ).decode("utf-8")
     req = urllib.request.Request(url, method="GET", headers={
         "Authorization": token,
-        "User-Agent": "apogea-wiki-bot (github actions; reading public channels)",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
         "Accept": "application/json",
+        "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+        "x-super-properties": xprops,
+        "x-discord-locale": "pt-BR",
+        "x-debug-options": "bugReporterEnabled",
+        "Sec-Fetch-User": "?1",
     })
     for attempt in range(retries):
         try:
